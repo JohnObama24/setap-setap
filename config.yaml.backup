@@ -1,9 +1,6 @@
-# This is default and very simple configuration file for Yasb. 
-# For more information about configuration options, please visit the Wiki https://github.com/amnweb/yasb/wiki
 watch_stylesheet: true
 watch_config: true
 debug: false
-update_check: true # Enable automatic update check.
 komorebi:
   start_command: "komorebic start --whkd"
   stop_command: "komorebic stop --whkd"
@@ -16,16 +13,12 @@ bars:
     alignment:
       position: "top"
       center: false
-    animation:
-      enabled: true
-      duration: 400
     blur_effect:
-      enabled: false
+      enabled: true
       acrylic: false
-      dark_mode: false
-      round_corners: false
-      round_corners_type: "normal"
-      border_color: "system"
+      dark_mode: true
+      round_corners: true
+      border_color: None
     window_flags:
       always_on_top: false
       windows_app_bar: true
@@ -34,86 +27,27 @@ bars:
       height: 32
     padding:
       top: 4
-      left: 4
+      left: 6
       bottom: 0
-      right: 4
+      right: 6
     widgets:
-      left:
-      - "home"
-      - "komorebi_workspaces"
-      - "komorebi_active_layout"
-      - "active_window"
-      center:
-      - "clock"
-      right:
-      - "media"
-      - "weather"
-      - "microphone"
-      - "volume"
-      - "notifications"
-      - "power_menu"
+      left: ["active_window"]
+      center: ["clock","apps"]
+      right: ["update","github","taskbar","whkd","volume","power_menu"]
 widgets:
-  home:
-    type: "yasb.home.HomeWidget"
+  update:
+    type: "yasb.update_check.UpdateCheckWidget"
     options:
-      label: "<span>\udb81\udf17</span>"
-      menu_list:
-      - { title: "User Home", path: "~" }
-      - { title: "Download", path: "~\\Downloads" }
-      - { title: "Documents", path: "~\\Documents" }
-      - { title: "Pictures", path: "~\\Pictures" }
-      system_menu: true
-      power_menu: true
-      blur: false
-  media:
-    type: "yasb.media.MediaWidget"
-    options:
-      label: "{title}"
-      label_alt: "{artist} - {title}"
-      max_field_size:
-        label: 16
-        label_alt: 24
-      show_thumbnail: true
-      controls_only: false
-      controls_left: true
-      controls_hide: true
-      hide_empty: true
-      thumbnail_alpha: 100
-      thumbnail_padding: 16
-      thumbnail_corner_radius: 0
-      thumbnail_edge_fade: true
-      icons:
-        prev_track: "\udb81\udcae"
-        next_track: "\udb81\udcad"
-        play: "\udb81\udc0a"
-        pause: "\udb80\udfe4"
-      media_menu:
-        blur: false
-        round_corners: false
-        alignment: "right"
-        direction: "down"
-        offset_top: 6
-        offset_left: 0
-        thumbnail_corner_radius: 4
-        thumbnail_size: 100
-        max_title_size: 80
-        max_artist_size: 20
-        show_source: true
-      label_shadow:
+      winget_update:
         enabled: true
-        color: "#000000"
-        radius: 2
-        offset: [ 1, 1 ]
-      scrolling_label:
+        label: "<span>\uf0ab</span>{count}"
+        interval: 30
+        exclude: []
+      windows_update:
         enabled: true
-        update_interval_ms: 50
-        style: "left"  # can be "left", "right", "bounce", "bounce-ease"
-        separator: " | "
-        label_padding: 1
-      callbacks:
-        on_left: "toggle_media_menu"
-        on_middle: "do_nothing"
-        on_right: "toggle_label"
+        label: "<span>\uf0ab</span>{count}"
+        interval: 240
+        exclude: []
   active_window:
     type: "yasb.active_window.ActiveWindowWidget"
     options:
@@ -122,30 +56,25 @@ widgets:
       label_no_window: ""
       label_icon: true
       label_icon_size: 14
-      max_length: 30
+      max_length: 56
       max_length_ellipsis: "..."
-      monitor_exclusive: true
+      monitor_exclusive: false
   clock:
     type: "yasb.clock.ClockWidget"
     options:
       label: "{%a, %d %b %H:%M}"
-      label_alt: "{%A, %d %B %Y %H:%M}"
+      label_alt: "{%A, %d %B %Y %H:%M:%S}"
       timezones: []
       calendar: 
-        blur: false
-        round_corners: false
         alignment: "center"
-        direction: "down"
-      callbacks:
-        on_left: "toggle_calendar"
-        on_right: "toggle_label"
+        offset_top: 6
   komorebi_workspaces:
     type: "komorebi.workspaces.WorkspaceWidget"
     options:
       label_offline: "\u23fc Offline"
-      label_workspace_btn: "\u000d"
-      label_workspace_active_btn: "\u000d"
-      label_workspace_populated_btn: "\u000d"
+      label_workspace_btn: "\udb81\udc3d"
+      label_workspace_active_btn: ""
+      label_workspace_populated_btn: "\udb81\udc3e"
       label_default_name: "{index}"
       label_zero_index: false
       hide_empty_workspaces: false
@@ -177,7 +106,7 @@ widgets:
         ultrawide_vertical_stack: "W-STACK"
         right_main_vertical_stack: "RMV-STACK"
         monocle: "MONOCLE"
-        maximized: "MAX"
+        maximised: "MAX"
         floating: "FLOATING"
         paused: "PAUSED"
       callbacks:
@@ -189,51 +118,28 @@ widgets:
     options:
       label: "<span>{icon}</span> {temp}"
       label_alt: "{location}: Min {min_temp}, Max {max_temp}, Humidity {humidity}"
-      api_key: env
+      api_key: "24b6c2cda6d84066b0304531241908"
       update_interval: 600
       hide_decimal: true
-      location: env
+      location: "USA Los Angeles 90006"
       callbacks:
-        on_left: "toggle_card"
-        on_middle: "do_nothing"
-        on_right: "toggle_label"
+        on_left: "toggle_label"
       icons:
-        sunnyDay: "\ue30d"
-        clearNight: "\ue32b"
-        cloudyDay: "\ue312"
-        cloudyNight: "\ue311"
-        rainyDay: "\ue308"
-        rainyNight: "\ue333"
-        snowyIcyDay: "\ue30a"
-        snowyIcyNight: "\ue335"
-        blizzardDay: "\udb83\udf36"
-        blizzardNight: "\udb83\udf36"
-        foggyDay: "\ue303"
-        foggyNight: "\ue346"
-        thunderstormDay: "\ue30f"
-        thunderstormNight: "\ue338"
-        default: "\uebaa"
-      weather_card:
-        blur: false
-        round_corners: false
-        alignment: "right"
-        direction: "down"
-        icon_size: 64
-        show_hourly_forecast: true
-        time_format: "24h"
-        hourly_point_spacing: 76
-        hourly_icon_size: 32
-        icon_smoothing: true
-        temp_line_width: 2
-        current_line_color: "#8EAEE8"
-        current_line_width: 1
-        current_line_style: "dot"
+        sunnyDay: "\udb81\udd99"
+        clearNight: "\udb81\udd99"
+        cloudyDay: "\udb81\udd99"
+        cloudyNight: "\udb81\udd99"
+        rainyDay: "\udb81\udd99"
+        rainyNight: "\udb81\udd99"
+        snowyIcyDay: "\udb81\udd99"
+        snowyIcyNight: "\udb81\udd99"
+        blizzardDay: "\udb81\udd99"
+        default: "\udb81\udd99"
   volume:
     type: "yasb.volume.VolumeWidget"
     options:
       label: "<span>{icon}</span> {level}"
       label_alt: "{volume}"
-      tooltip: false
       volume_icons:
         - "\ueee8"
         - "\uf026"
@@ -241,19 +147,6 @@ widgets:
         - "\uf027"
         - "\uf028"
       callbacks:
-        on_left: "toggle_mute"
-        on_right: "exec cmd.exe /c start ms-settings:sound"
-  microphone:
-    type: "yasb.microphone.MicrophoneWidget"
-    options:
-      label: "<span>{icon}</span> {level}"
-      label_alt: "<span>{icon}</span> {level}%"
-      icons:
-        normal: "\udb80\udf6c"
-        muted: "\udb80\udf6d"
-      callbacks:
-        on_left: "toggle_mute"
-        on_middle: "toggle_label"
         on_right: "exec cmd.exe /c start ms-settings:sound"
   power_menu:
     type: "yasb.power_menu.PowerMenuWidget"
@@ -271,14 +164,71 @@ widgets:
         hibernate: ["\uf28e", "Hibernate"]
         sleep: ["\u23fe", "Sleep"]
         cancel: ["", "Cancel"]
-  notifications:
-    type: "yasb.notifications.NotificationsWidget"
+  apps:
+    type: "yasb.applications.ApplicationsWidget"
     options:
-      label: "<span>\uf476</span> {count}"
-      label_alt: "{count} notifications"
-      hide_empty: true
-      tooltip: false
+      label: "{data}"
+      app_list:
+        - { icon: "\uf0a2", launch: "notification_center" }
+        - { icon: "\uf422", launch: "launcher" }
+        - { icon: "\ueb03", launch: "cmd /c Taskmgr" }
+        - { icon: "\uf489", launch: "wt" }
+        - { icon: "\udb84\udec7", launch: "C:\\Program Files\\Microsoft Office\\root\\Office16\\OUTLOOK.EXE" }
+        - { icon: "\uf1ff",launch: "C:\\Users\\amn\\AppData\\Local\\Discord\\Update.exe --processStart Discord.exe" }
+        - { icon: "\ue217",launch: "C:\\Users\\amn\\AppData\\Roaming\\Telegram Desktop\\Telegram.exe" }
+        - { icon: "\ued38",launch: "C:\\Users\\amn\\AppData\\Local\\Viber\\Viber.exe" }
+        - { icon: "\uf17e",launch: "C:\\Program Files (x86)\\Microsoft\\Skype for Desktop\\Skype.exe" }
+        - { icon: "\udb80\ude39",launch: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" }
+        - { icon: "\udb82\ude1e",launch: "C:\\Users\\amn\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe" }
+  github:
+    type: "yasb.github.GithubWidget"
+    options:
+      label: "<span>\ueba1</span>"
+      label_alt: "Notifications {data}"
+      token: env
+      max_notification: 30
+      only_unread: false
+      max_field_size: 54
+      update_interval: 60
+  taskbar:
+    type: "yasb.taskbar.TaskbarWidget"
+    options:
+      animation:
+        enabled: true
+      icon_size: 16
+      ignore_apps:
+        processes: []
+        titles: []
+        classes: []
+  ai:
+    type: "yasb.custom.CustomWidget"
+    options:
+      label: "<span>\udb81\ude74</span>"
+      label_alt: "\udb81\ude74"
+      class_name: "ai-widget"
       callbacks:
-        on_left: "toggle_notification"
-        on_right: "do_nothing"
-        on_middle: "toggle_label"
+        on_left: "exec cmd.exe /c start \"C:\\Program Files\\Mozilla Firefox\\firefox.exe\" https://platform.openai.com/playground/chat?models=gpt-4o"
+  whkd:
+    type: "yasb.whkd.WhkdWidget"
+    options:
+      label: "<span>\uf11c</span>"
+  wallpapers:
+    type: "yasb.wallpapers.WallpapersWidget"
+    options:
+      label: "<span>\udb83\ude09</span>"
+      image_path: "C:\\Users\\amn\\Pictures\\Wallpapers"
+      change_automatically: false
+      update_interval: 60
+      gallery:
+        enabled: true
+        blur: true
+        image_width: 296
+        image_per_page: 6
+        show_buttons: false
+        orientation: "portrait"
+        image_spacing: 10
+        lazy_load: true
+        lazy_load_delay: 10
+        lazy_load_fadein: 200
+        image_corner_radius: 20
+        enable_cache: true

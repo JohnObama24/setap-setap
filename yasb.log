@@ -467,3 +467,1446 @@ could not find expected ':'
 2025-10-06 14:21:27,381 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
 2025-10-06 14:21:27,386 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
 2025-10-06 14:21:27,391 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-06 14:21:27,623 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-06 14:21:27,626 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-06 14:21:27,626 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-06 14:21:27,790 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-06 14:21:27,874 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-06 14:21:29,155 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-06 14:21:29,155 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-10-06 14:21:29,155 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\John Obama\.config\yasb
+2025-10-06 14:21:29,171 [INFO] [Dummy-6] [root/event_listener.py:51]: Created named pipe yasb-1397db98-a285-11f0-97d0-e30f1c17f070
+2025-10-06 14:21:29,234 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-06 14:21:29,235 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-06 14:21:31,486 [ERROR] [Thread-3 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 14:26:31,847 [ERROR] [Thread-129 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 14:31:31,395 [ERROR] [Thread-248 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 14:36:28,363 [ERROR] [Thread-367 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 14:41:28,343 [ERROR] [Thread-486 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 14:46:31,384 [ERROR] [Thread-607 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 14:51:31,835 [ERROR] [Thread-726 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 14:56:31,838 [ERROR] [Thread-845 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 15:01:31,366 [ERROR] [Thread-964 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 15:06:31,393 [ERROR] [Thread-1083 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 15:11:31,366 [ERROR] [Thread-1204 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 15:16:31,409 [ERROR] [Thread-1323 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 15:21:31,411 [ERROR] [Thread-1442 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 15:26:31,408 [ERROR] [Thread-1563 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 15:27:28,040 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-06 15:27:28,042 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-10-06 22:25:09,553 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-06 22:25:09,553 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-06 22:25:09,553 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-06 22:25:10,161 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-06 22:25:12,553 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-06 22:25:14,454 [ERROR] [Thread-3 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 22:25:14,517 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-10-06 22:25:14,517 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-06 22:25:14,517 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\John Obama\.config\yasb
+2025-10-06 22:25:14,521 [INFO] [Dummy-6] [root/event_listener.py:51]: Created named pipe yasb-a80e9432-a2c8-11f0-b9ab-e30f1c17f070
+2025-10-06 22:25:14,596 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-06 22:25:14,598 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-06 22:30:13,723 [ERROR] [Thread-129 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 22:34:56,951 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-10-06 22:34:56,951 [INFO] [Thread-1 (_run_server)] [root/controller.py:35]: Exiting Application from CLI...
+2025-10-06 22:34:57,066 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-06 22:34:57,066 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-06 22:34:58,653 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-10-06 22:34:58,653 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-06 22:34:58,656 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-06 22:34:58,672 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-06 22:34:58,672 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-06 22:34:59,378 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-06 22:34:59,380 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-06 22:34:59,380 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-06 22:34:59,524 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-06 22:34:59,876 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-06 22:34:59,905 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-06 22:35:01,123 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-06 22:35:01,123 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-10-06 22:35:01,127 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-06 22:35:01,127 [INFO] [Dummy-3] [root/event_listener.py:51]: Created named pipe yasb-05b39fc8-a2ca-11f0-a674-e30f1c17f070
+2025-10-06 22:35:01,127 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\John Obama\.config\yasb
+2025-10-06 22:35:01,171 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-06 22:35:01,171 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-06 22:35:01,171 [DEBUG] [MainThread] [systray_widget/systray.py:538]: Loading state from C:\Users\John Obama\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-06 22:35:01,175 [DEBUG] [MainThread] [systray_widget/systray.py:548]: State file not found.
+2025-10-06 22:35:01,176 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-10-06 22:35:01,176 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-10-06 22:35:01,182 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 394858
+2025-10-06 22:35:01,182 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 394858
+2025-10-06 22:35:01,194 [DEBUG] [MainThread] [systray_widget/systray.py:285]: Systray thread started
+2025-10-06 22:35:01,395 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 394858
+2025-10-06 22:35:01,396 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-10-06 22:35:01,404 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49328
+2025-10-06 22:35:02,407 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-06 22:35:02,407 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-06 22:37:51,810 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-10-06 22:37:51,812 [INFO] [Thread-1 (_run_server)] [root/controller.py:35]: Exiting Application from CLI...
+2025-10-06 22:37:51,916 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-06 22:37:51,916 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-06 22:37:53,536 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-06 22:37:53,536 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-10-06 22:37:53,536 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-06 22:37:53,536 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-06 22:37:53,536 [DEBUG] [MainThread] [systray_widget/systray.py:516]: Saving state to disk
+2025-10-06 22:37:53,536 [DEBUG] [MainThread] [systray_widget/systray.py:520]: Saving state to C:\Users\John Obama\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-06 22:37:53,536 [DEBUG] [MainThread] [systray_widget/systray.py:528]: State file not found.
+2025-10-06 22:37:53,541 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-06 22:37:53,557 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-06 22:37:53,559 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-06 22:37:53,577 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 198236
+2025-10-06 22:37:53,579 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 394858
+2025-10-06 22:37:55,189 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-06 22:37:55,189 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-06 22:37:55,189 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-06 22:37:55,486 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-06 22:37:55,552 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-06 22:37:56,817 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-10-06 22:37:56,817 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-06 22:37:56,818 [INFO] [Dummy-3] [root/event_listener.py:51]: Created named pipe yasb-6e6c6b46-a2ca-11f0-9f44-e30f1c17f070
+2025-10-06 22:37:56,818 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\John Obama\.config\yasb
+2025-10-06 22:37:56,860 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-06 22:37:56,861 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-06 22:37:56,862 [DEBUG] [MainThread] [systray_widget/systray.py:538]: Loading state from C:\Users\John Obama\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-06 22:37:56,869 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-10-06 22:37:56,869 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-10-06 22:37:56,888 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 328998
+2025-10-06 22:37:56,888 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 328998
+2025-10-06 22:37:56,920 [DEBUG] [MainThread] [systray_widget/systray.py:285]: Systray thread started
+2025-10-06 22:37:57,067 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-06 22:37:57.067472
+2025-10-06 22:37:57,120 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 328998
+2025-10-06 22:37:57,121 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-10-06 22:37:57,131 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49328
+2025-10-06 22:37:58,136 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-06 22:37:58,136 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-06 22:38:07,767 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-06 22:38:07,767 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-06 22:39:40,296 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-10-06 22:39:40,296 [INFO] [Thread-1 (_run_server)] [root/controller.py:35]: Exiting Application from CLI...
+2025-10-06 22:39:40,412 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-06 22:39:40,412 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-06 22:39:42,048 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-10-06 22:39:42,048 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-06 22:39:42,050 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-06 22:39:42,051 [DEBUG] [MainThread] [systray_widget/systray.py:516]: Saving state to disk
+2025-10-06 22:39:42,051 [DEBUG] [MainThread] [systray_widget/systray.py:520]: Saving state to C:\Users\John Obama\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-06 22:39:42,080 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-06 22:39:42,101 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-06 22:39:42,102 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-06 22:39:42,113 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 197942
+2025-10-06 22:39:42,113 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 328998
+2025-10-06 22:39:42,715 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-06 22:39:42,715 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-06 22:39:42,717 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-06 22:39:42,927 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-06 22:39:43,088 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-06 22:39:44,858 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-10-06 22:39:44,863 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-06 22:39:44,864 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-10-06 22:39:44,865 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\John Obama\.config\yasb
+2025-10-06 22:39:44,865 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-aed300ec-a2ca-11f0-afb2-e30f1c17f070
+2025-10-06 22:39:44,913 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-06 22:39:44,913 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-06 22:39:45,289 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2025-10-06 22:39:45,289 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:39:55,516 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2025-10-06 22:39:55,516 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:40:05,722 [ERROR] [MainThread] [root/api.py:84]: Weather response error 403: API key has been disabled.
+2025-10-06 22:40:05,722 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:40:15,927 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2025-10-06 22:40:15,927 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:40:26,123 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2025-10-06 22:40:26,123 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:40:33,033 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-10-06 22:40:33,033 [INFO] [Thread-1 (_run_server)] [root/controller.py:35]: Exiting Application from CLI...
+2025-10-06 22:40:33,149 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-06 22:40:33,149 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-06 22:40:35,278 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-06 22:40:35,279 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-06 22:40:35,279 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-06 22:40:35,281 [ERROR] [MainThread] [root/main.py:76]: Another instance of the YASB is already running.
+2025-10-06 22:40:36,812 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-06 22:40:36,817 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-10-06 22:40:36,819 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2025-10-06 22:40:37,253 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-06 22:40:37,363 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-06 22:40:37,363 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-06 22:40:37,373 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-06 22:40:37,373 [ERROR] [MainThread] [root/main.py:147]: Unhandled exception
+Traceback (most recent call last):
+  File "D:\a\yasb\yasb\src\core\widgets\yasb\media.py", line 628, in _update_interpolated_position
+RuntimeError: wrapped C/C++ object of type MediaWidget has been deleted
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\a\yasb\yasb\src\core\utils\widgets\media\media.py", line 395, in _interpolate_timeline
+  File "D:\a\yasb\yasb\src\core\widgets\yasb\media.py", line 197, in <lambda>
+  File "D:\a\yasb\yasb\src\core\widgets\yasb\media.py", line 654, in _update_interpolated_position
+RuntimeError: wrapped C/C++ object of type MediaWidget has been deleted
+2025-10-06 22:40:37,649 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-06 22:40:37,650 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-06 22:40:37,650 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-06 22:40:37,838 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-06 22:40:37,903 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-06 22:40:39,251 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-06 22:40:39,252 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-10-06 22:40:39,252 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\John Obama\.config\yasb
+2025-10-06 22:40:39,267 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-cf3def50-a2ca-11f0-aa09-e30f1c17f070
+2025-10-06 22:40:39,291 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-06 22:40:39,292 [DEBUG] [Dummy-7] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-06 22:40:39,629 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-06 22:40:39.629850
+2025-10-06 22:43:57,970 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-10-06 22:43:57,970 [INFO] [Thread-1 (_run_server)] [root/controller.py:35]: Exiting Application from CLI...
+2025-10-06 22:43:58,082 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-06 22:43:58,082 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-06 22:43:59,708 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-06 22:43:59,708 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-10-06 22:43:59,717 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-06 22:43:59,730 [DEBUG] [Dummy-7] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-06 22:43:59,732 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-06 22:44:01,582 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-06 22:44:01,582 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-06 22:44:01,582 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-06 22:44:02,487 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-06 22:44:06,284 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-06 22:44:07,464 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-06 22:44:07,465 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\John Obama\.config\yasb
+2025-10-06 22:44:07,508 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-06 22:44:07,509 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-06 22:44:07,724 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:44:07,724 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:44:17,841 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:44:17,841 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:44:27,963 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:44:27,963 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:44:38,039 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:44:38,039 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:44:48,095 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:44:48,095 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:44:58,157 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:44:58,158 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:45:08,241 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:45:08,241 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:45:09,741 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-10-06 22:45:09,741 [INFO] [Thread-1 (_run_server)] [root/controller.py:35]: Exiting Application from CLI...
+2025-10-06 22:45:09,848 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-06 22:45:09,848 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-06 22:45:11,463 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-06 22:45:11,472 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-06 22:45:11,486 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-06 22:45:11,486 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-06 22:45:12,298 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-06 22:45:12,299 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-06 22:45:12,300 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-06 22:45:12,785 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-06 22:45:13,327 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-06 22:45:14,912 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-06 22:45:14,912 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\John Obama\.config\yasb
+2025-10-06 22:45:14,963 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-06 22:45:14,964 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-06 22:45:15,176 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:45:15,176 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:45:25,238 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:45:25,238 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:45:35,284 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:45:35,284 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:45:45,346 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:45:45,346 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:45:55,413 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:45:55,413 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:46:05,470 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:46:05,470 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:46:15,521 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:46:15,521 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:46:25,556 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:46:25,556 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:46:35,588 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:46:35,588 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:46:45,664 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:46:45,664 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:46:55,707 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:46:55,707 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:47:05,875 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:47:05,875 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:47:15,915 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:47:15,915 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:47:26,000 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:47:26,000 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:47:36,064 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:47:36,064 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:47:46,117 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:47:46,117 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:47:56,156 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:47:56,156 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:48:06,218 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:48:06,218 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:48:16,269 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:48:16,269 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:48:26,360 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:48:26,360 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:48:36,427 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:48:36,427 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:48:46,478 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:48:46,478 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:48:56,547 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:48:56,547 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:49:06,638 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:49:06,638 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:49:16,708 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:49:16,708 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:49:26,802 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:49:26,802 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:49:36,870 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:49:36,870 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:49:46,925 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:49:46,927 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:49:57,036 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:49:57,036 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:50:07,090 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:50:07,090 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:50:17,178 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:50:17,178 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:50:27,260 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:50:27,260 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:50:37,376 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:50:37,380 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:50:47,441 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:50:47,441 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:50:57,621 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:50:57,621 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:51:07,775 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:51:07,775 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:51:17,842 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:51:17,842 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:51:27,912 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:51:27,912 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:51:37,986 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:51:37,986 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:51:48,120 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:51:48,120 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:51:58,193 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:51:58,193 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:52:08,233 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:52:08,233 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:52:18,293 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:52:18,293 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:52:28,357 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:52:28,361 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:52:38,419 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:52:38,419 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:52:48,487 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:52:48,487 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:52:58,574 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:52:58,574 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:53:08,635 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:53:08,635 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:53:18,735 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:53:18,735 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:53:28,785 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:53:28,785 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:53:38,856 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:53:38,856 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:53:49,096 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:53:49,096 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:53:59,172 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:53:59,172 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:54:09,237 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:54:09,245 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:54:19,309 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:54:19,309 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:54:45,081 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:54:45,081 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:54:55,128 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:55:00,088 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:55:10,222 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:55:10,806 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:55:13,368 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:55:20,881 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:55:22,009 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:55:32,090 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:55:32,090 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:55:42,184 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:55:42,184 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:55:52,259 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:55:52,259 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:56:02,306 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:56:28,156 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:56:38,211 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:56:38,211 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:56:48,253 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:56:48,253 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:56:58,321 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:56:58,321 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:57:08,433 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:57:08,433 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:57:18,492 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:57:18,492 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:57:28,533 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:57:28,533 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:57:38,584 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:57:38,586 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:57:48,623 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:57:48,623 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:57:58,705 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:57:58,705 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:58:08,743 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:58:08,743 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:58:18,806 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:58:18,806 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:58:28,879 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:58:28,879 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:58:38,945 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:58:38,945 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:58:49,164 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:58:49,164 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:58:59,215 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:58:59,215 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:59:09,285 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:59:09,285 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:59:19,345 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:59:19,345 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:59:29,405 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:59:29,405 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:59:39,466 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:59:39,466 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:59:49,546 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:59:49,546 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 22:59:59,615 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 22:59:59,615 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:00:09,667 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:00:09,667 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:00:19,737 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:00:19,737 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:00:29,797 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:00:29,797 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:00:39,863 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:00:39,863 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:00:49,918 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:00:49,918 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:01:00,068 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:01:00,068 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:01:10,178 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:01:10,178 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:01:20,228 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:01:20,228 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:01:30,284 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:01:30,284 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:01:40,341 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:01:40,341 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:01:50,439 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:01:50,439 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:02:00,509 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:02:00,509 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:02:10,583 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:02:10,583 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:02:20,645 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:02:20,648 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:02:30,700 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:02:30,706 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:02:40,780 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:02:40,780 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:02:50,841 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:02:50,841 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:03:00,891 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:03:00,891 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:03:10,965 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:03:10,970 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:03:21,032 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:03:21,032 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:03:31,128 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:03:31,128 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:03:41,172 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:03:41,172 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:03:51,226 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:03:51,226 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:04:01,313 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:04:01,313 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:04:11,363 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:04:11,363 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:04:21,428 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:04:21,428 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:04:31,474 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:04:31,474 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:04:41,544 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:04:41,544 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:04:51,608 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:04:51,608 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:05:01,874 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:05:01,874 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:05:11,925 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:05:11,925 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:05:13,366 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:05:21,977 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:05:21,980 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:05:32,050 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:05:32,050 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:05:42,108 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:05:42,108 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:05:52,166 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:05:52,166 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:06:02,236 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:06:02,236 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:06:12,276 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:06:12,278 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:06:22,334 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:06:22,334 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:06:32,377 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:06:32,377 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:06:42,449 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:06:42,449 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:06:52,541 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:06:52,541 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:07:02,569 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:07:02,569 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:07:12,620 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:07:12,620 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:07:22,678 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:07:22,688 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:07:32,744 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:07:32,744 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:07:42,799 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:07:42,799 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:07:52,864 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:07:52,864 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:08:02,913 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:08:02,913 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:08:12,965 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:08:12,970 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:08:23,020 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:08:23,020 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:08:33,071 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:08:33,071 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:08:45,116 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:08:45,116 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:08:55,161 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:08:55,161 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:09:05,220 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:09:05,220 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:09:15,311 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:09:15,311 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:09:25,359 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:09:25,362 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:09:35,412 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:09:35,412 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:09:45,457 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:09:45,457 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:09:55,508 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:09:55,508 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:10:05,553 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:10:05,553 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:10:15,620 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:10:15,623 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:10:25,718 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:10:25,718 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:10:35,764 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:10:35,764 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:10:45,826 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:10:45,826 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:10:55,895 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:10:55,895 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:11:05,965 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:11:05,965 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:11:16,035 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:11:16,035 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:11:26,100 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:11:26,105 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:11:36,193 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:11:36,193 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:11:46,247 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:11:46,247 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:11:56,327 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:11:56,327 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:12:06,405 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:12:06,405 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:12:16,447 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:12:16,447 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:12:26,497 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:12:26,497 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:12:36,557 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:12:36,557 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:12:46,608 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:12:46,608 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:12:56,668 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:12:56,668 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:13:06,730 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:13:06,730 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:13:16,779 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:13:16,779 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:13:26,839 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:13:26,839 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:13:36,889 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:13:36,889 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:13:46,939 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:13:46,939 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:13:49,115 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-10-06 23:13:49,115 [INFO] [Thread-1 (_run_server)] [root/controller.py:35]: Exiting Application from CLI...
+2025-10-06 23:13:49,225 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-06 23:13:49,225 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-06 23:13:49,300 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-06 23:13:49,321 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-06 23:13:49,332 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-06 23:13:49,334 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-06 23:13:51,393 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-06 23:13:51,393 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-06 23:13:51,393 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-06 23:13:51,696 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-06 23:13:51,731 [DEBUG] [MainThread] [pyvda.build/build.py:53]: Starting feature detection...
+2025-10-06 23:13:51,731 [DEBUG] [MainThread] [pyvda.build/build.py:57]: Feature detection complete. Windows version is over 26100
+2025-10-06 23:13:51,752 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-06 23:13:51,757 [DEBUG] [MainThread] [comtypes._post_coinit.unknwn/unknwn.py:283]: Release <POINTER(IServiceProvider) ptr=0x1eb427a0e58 at 1eb445d2650>
+2025-10-06 23:13:51,761 [DEBUG] [MainThread] [comtypes._post_coinit.unknwn/unknwn.py:283]: Release <POINTER(IServiceProvider) ptr=0x1eb4279f658 at 1eb445d2650>
+2025-10-06 23:13:51,763 [DEBUG] [MainThread] [comtypes._post_coinit.unknwn/unknwn.py:283]: Release <POINTER(IServiceProvider) ptr=0x1eb427a0e58 at 1eb445d2650>
+2025-10-06 23:13:51,765 [DEBUG] [MainThread] [comtypes._post_coinit.unknwn/unknwn.py:283]: Release <POINTER(IServiceProvider) ptr=0x1eb4279fe58 at 1eb445d2650>
+2025-10-06 23:13:51,815 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-06 23:13:52,729 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\John Obama\.config\yasb
+2025-10-06 23:13:52,766 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-06 23:13:52,766 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-06 23:13:54,977 [DEBUG] [MainThread] [systray_widget/systray.py:538]: Loading state from C:\Users\John Obama\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-06 23:13:54,996 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-10-06 23:13:54,996 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-10-06 23:13:54,999 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 918542
+2025-10-06 23:13:54,999 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 918542
+2025-10-06 23:13:55,210 [DEBUG] [MainThread] [systray_widget/systray.py:285]: Systray thread started
+2025-10-06 23:13:55,212 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-06 23:13:55.212736
+2025-10-06 23:13:55,411 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 918542
+2025-10-06 23:13:55,411 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-10-06 23:13:55,419 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49328
+2025-10-06 23:13:56,444 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-06 23:13:56,444 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-06 23:14:41,091 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-10-06 23:14:41,091 [INFO] [Thread-1 (_run_server)] [root/controller.py:35]: Exiting Application from CLI...
+2025-10-06 23:14:41,203 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-06 23:14:41,203 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-06 23:14:41,238 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-06 23:14:41,238 [DEBUG] [MainThread] [systray_widget/systray.py:516]: Saving state to disk
+2025-10-06 23:14:41,238 [DEBUG] [MainThread] [systray_widget/systray.py:520]: Saving state to C:\Users\John Obama\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-06 23:14:41,251 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-06 23:14:41,266 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-06 23:14:41,266 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-06 23:14:41,271 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 591062
+2025-10-06 23:14:41,271 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 918542
+2025-10-06 23:14:43,481 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-06 23:14:43,481 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-06 23:14:43,481 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-06 23:14:43,851 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-06 23:14:43,907 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-06 23:14:45,726 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-06 23:14:45,727 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-10-06 23:14:45,727 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\John Obama\.config\yasb
+2025-10-06 23:14:45,741 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-930954f0-a2cf-11f0-a34a-e30f1c17f070
+2025-10-06 23:14:45,771 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-06 23:14:45,771 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-06 23:14:45,772 [DEBUG] [MainThread] [systray_widget/systray.py:538]: Loading state from C:\Users\John Obama\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-06 23:14:45,779 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-10-06 23:14:45,779 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-10-06 23:14:45,797 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 1050078
+2025-10-06 23:14:45,798 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 1050078
+2025-10-06 23:14:45,821 [DEBUG] [MainThread] [systray_widget/systray.py:285]: Systray thread started
+2025-10-06 23:14:46,022 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 1050078
+2025-10-06 23:14:46,023 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-10-06 23:14:46,033 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49328
+2025-10-06 23:14:46,117 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-06 23:14:46.117933
+2025-10-06 23:14:47,054 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-06 23:14:47,054 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-06 23:15:24,522 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-10-06 23:15:24,522 [INFO] [Thread-1 (_run_server)] [root/controller.py:35]: Exiting Application from CLI...
+2025-10-06 23:15:24,625 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-06 23:15:24,625 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-06 23:15:24,653 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-06 23:15:24,653 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-10-06 23:15:24,653 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-06 23:15:24,653 [DEBUG] [MainThread] [systray_widget/systray.py:516]: Saving state to disk
+2025-10-06 23:15:24,653 [DEBUG] [MainThread] [systray_widget/systray.py:520]: Saving state to C:\Users\John Obama\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-06 23:15:24,674 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-06 23:15:24,692 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-06 23:15:24,692 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-06 23:15:24,696 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 853750
+2025-10-06 23:15:24,702 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 1050078
+2025-10-06 23:15:26,706 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-06 23:15:26,711 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-06 23:15:26,711 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-06 23:15:26,896 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-06 23:15:27,165 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-06 23:15:28,073 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-06 23:15:28,075 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\John Obama\.config\yasb
+2025-10-06 23:15:28,124 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-06 23:15:28,126 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-06 23:15:28,293 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:15:28,293 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:15:38,349 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:15:38,349 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:15:48,459 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:15:48,459 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:15:58,514 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:15:58,514 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:16:08,575 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:16:08,575 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:16:18,624 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:16:18,629 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:16:28,680 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:16:28,680 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:16:29,794 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-10-06 23:16:29,794 [INFO] [Thread-1 (_run_server)] [root/controller.py:35]: Exiting Application from CLI...
+2025-10-06 23:16:29,899 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-06 23:16:29,899 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-06 23:16:32,064 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-06 23:16:32,101 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-06 23:16:32,203 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-06 23:16:32,203 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-06 23:16:32,208 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-06 23:16:32,214 [ERROR] [MainThread] [root/main.py:147]: Unhandled exception
+Traceback (most recent call last):
+  File "D:\a\yasb\yasb\src\core\widgets\yasb\media.py", line 628, in _update_interpolated_position
+RuntimeError: wrapped C/C++ object of type MediaWidget has been deleted
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\a\yasb\yasb\src\core\utils\widgets\media\media.py", line 395, in _interpolate_timeline
+  File "D:\a\yasb\yasb\src\core\widgets\yasb\media.py", line 197, in <lambda>
+  File "D:\a\yasb\yasb\src\core\widgets\yasb\media.py", line 654, in _update_interpolated_position
+RuntimeError: wrapped C/C++ object of type MediaWidget has been deleted
+2025-10-06 23:16:32,244 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-06 23:16:32,244 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-06 23:16:32,244 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-06 23:16:32,244 [ERROR] [MainThread] [root/main.py:76]: Another instance of the YASB is already running.
+2025-10-06 23:16:32,469 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-06 23:16:32,469 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-06 23:16:32,469 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-06 23:16:32,609 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-06 23:16:33,016 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-06 23:16:33,341 [ERROR] [Thread-6 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 23:16:33,635 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-10-06 23:16:33,639 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-06 23:16:33,639 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-10-06 23:16:33,640 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\John Obama\.config\yasb
+2025-10-06 23:16:33,640 [INFO] [Dummy-9] [root/event_listener.py:51]: Created named pipe yasb-d35b54f6-a2cf-11f0-9e5a-e30f1c17f070
+2025-10-06 23:16:33,675 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-06 23:16:33,676 [DEBUG] [Dummy-13] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-06 23:16:33,844 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:16:33,845 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:16:43,884 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:16:43,886 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:16:53,944 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:16:53,944 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:17:04,008 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:17:04,008 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:17:14,047 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:17:14,047 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:17:24,105 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:17:24,105 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:17:33,205 [ERROR] [Thread-36 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 23:17:34,181 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:17:34,181 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:17:44,226 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:17:44,226 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:17:54,268 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:17:54,268 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:18:04,317 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:18:04,317 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:18:14,371 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:18:14,371 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:18:24,441 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:18:24,441 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:18:33,287 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-10-06 23:18:33,287 [INFO] [Thread-1 (_run_server)] [root/controller.py:35]: Exiting Application from CLI...
+2025-10-06 23:18:33,397 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-06 23:18:33,397 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-06 23:18:33,436 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-06 23:18:33,436 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-10-06 23:18:33,436 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2025-10-06 23:18:33,451 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-06 23:18:33,459 [DEBUG] [Dummy-13] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-06 23:18:33,460 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-06 23:18:33,677 [ERROR] [Thread-61 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 23:18:35,827 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-06 23:18:35,830 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-06 23:18:35,831 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-06 23:18:35,957 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-06 23:18:36,171 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-06 23:18:36,783 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-10-06 23:18:36,783 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-06 23:18:36,784 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\John Obama\.config\yasb
+2025-10-06 23:18:36,785 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-1cc19ed5-a2d0-11f0-acae-e30f1c17f070
+2025-10-06 23:18:36,819 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-06 23:18:36,820 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-06 23:18:36,999 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-06 23:18:36.999021
+2025-10-06 23:19:29,608 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-10-06 23:19:29,608 [INFO] [Thread-1 (_run_server)] [root/controller.py:35]: Exiting Application from CLI...
+2025-10-06 23:19:29,724 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-06 23:19:29,724 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-06 23:19:31,977 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-10-06 23:19:31,977 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-06 23:19:32,013 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-06 23:19:32,120 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-06 23:19:32,120 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-06 23:19:32,141 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-06 23:19:32,141 [ERROR] [MainThread] [root/main.py:147]: Unhandled exception
+Traceback (most recent call last):
+  File "D:\a\yasb\yasb\src\core\widgets\yasb\media.py", line 628, in _update_interpolated_position
+RuntimeError: wrapped C/C++ object of type MediaWidget has been deleted
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\a\yasb\yasb\src\core\utils\widgets\media\media.py", line 395, in _interpolate_timeline
+  File "D:\a\yasb\yasb\src\core\widgets\yasb\media.py", line 197, in <lambda>
+  File "D:\a\yasb\yasb\src\core\widgets\yasb\media.py", line 654, in _update_interpolated_position
+RuntimeError: wrapped C/C++ object of type MediaWidget has been deleted
+2025-10-06 23:19:32,224 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-06 23:19:32,224 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-06 23:19:32,224 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-06 23:19:32,224 [ERROR] [MainThread] [root/main.py:76]: Another instance of the YASB is already running.
+2025-10-06 23:19:32,437 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-06 23:19:32,437 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-06 23:19:32,439 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-06 23:19:32,691 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-06 23:19:32,743 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-06 23:19:33,641 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-06 23:19:33,641 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-06 23:19:33,645 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\John Obama\.config\yasb
+2025-10-06 23:19:33,674 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-06 23:19:33,674 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-06 23:19:33,679 [DEBUG] [MainThread] [systray_widget/systray.py:538]: Loading state from C:\Users\John Obama\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-06 23:19:33,683 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-10-06 23:19:33,683 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-10-06 23:19:33,689 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 592072
+2025-10-06 23:19:33,689 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 592072
+2025-10-06 23:19:33,698 [DEBUG] [MainThread] [systray_widget/systray.py:285]: Systray thread started
+2025-10-06 23:19:33,898 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 592072
+2025-10-06 23:19:33,899 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-10-06 23:19:33,907 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49328
+2025-10-06 23:19:34,919 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-06 23:19:34,919 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-06 23:22:00,270 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-10-06 23:22:00,270 [INFO] [Thread-1 (_run_server)] [root/controller.py:35]: Exiting Application from CLI...
+2025-10-06 23:22:00,382 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-06 23:22:00,382 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-06 23:22:00,443 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-06 23:22:00,443 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-06 23:22:00,443 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-06 23:22:00,443 [DEBUG] [MainThread] [systray_widget/systray.py:516]: Saving state to disk
+2025-10-06 23:22:00,445 [DEBUG] [MainThread] [systray_widget/systray.py:520]: Saving state to C:\Users\John Obama\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-06 23:22:00,445 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-06 23:22:00,458 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-06 23:22:00,458 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-06 23:22:00,464 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 264336
+2025-10-06 23:22:00,464 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 592072
+2025-10-06 23:22:02,866 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-06 23:22:02,873 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-06 23:22:02,873 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-06 23:22:03,013 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-06 23:22:03,257 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-06 23:22:03,629 [ERROR] [Thread-6 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 23:22:03,960 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-10-06 23:22:03,965 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-06 23:22:03,965 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-10-06 23:22:03,965 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\John Obama\.config\yasb
+2025-10-06 23:22:03,980 [INFO] [Dummy-9] [root/event_listener.py:51]: Created named pipe yasb-983f0d88-a2d0-11f0-9616-e30f1c17f070
+2025-10-06 23:22:04,003 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-06 23:22:04,004 [DEBUG] [Dummy-13] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-06 23:22:04,191 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:22:04,191 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:22:14,223 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:22:14,231 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:22:24,279 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:22:24,279 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:22:34,434 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:22:34,434 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:22:44,489 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:22:44,489 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:22:54,525 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:22:54,525 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:23:04,009 [ERROR] [Thread-36 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 23:23:04,576 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:23:04,576 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:23:14,625 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:23:14,625 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:23:24,687 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:23:24,687 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:23:34,766 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:23:34,766 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:23:44,833 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:23:44,833 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:23:54,889 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:23:54,889 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:24:03,556 [ERROR] [Thread-61 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 23:24:04,976 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:24:04,976 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:24:15,017 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:24:15,017 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:24:23,900 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-06 23:24:24,010 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-06 23:24:24,010 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-06 23:24:24,018 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-06 23:24:24,070 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-06 23:24:24,070 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-10-06 23:24:24,071 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2025-10-06 23:24:24,099 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-06 23:24:24,108 [DEBUG] [Dummy-13] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-06 23:24:24,112 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-06 23:24:24,347 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-06 23:24:24,347 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-06 23:24:24,347 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-06 23:24:24,496 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-06 23:24:24,752 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-06 23:24:25,124 [ERROR] [Thread-6 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 23:24:25,342 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-10-06 23:24:25,348 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-06 23:24:25,348 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-10-06 23:24:25,350 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\John Obama\.config\yasb
+2025-10-06 23:24:25,350 [INFO] [Dummy-9] [root/event_listener.py:51]: Created named pipe yasb-ec848264-a2d0-11f0-9e72-e30f1c17f070
+2025-10-06 23:24:25,397 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-06 23:24:25,399 [DEBUG] [Dummy-13] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-06 23:24:25,572 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:24:25,572 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:24:35,627 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:24:35,627 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:24:45,692 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:24:45,692 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:24:55,763 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:24:55,763 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:24:59,030 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-06 23:24:59,141 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-06 23:24:59,141 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-06 23:24:59,148 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-06 23:24:59,192 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-06 23:24:59,193 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-10-06 23:24:59,193 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2025-10-06 23:24:59,229 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-06 23:24:59,240 [DEBUG] [Dummy-13] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-06 23:24:59,240 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-06 23:24:59,478 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-06 23:24:59,478 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-06 23:24:59,478 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-06 23:24:59,628 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-06 23:24:59,867 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-06 23:25:00,245 [ERROR] [Thread-6 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 23:25:00,450 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-10-06 23:25:00,458 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-10-06 23:25:00,459 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-06 23:25:00,459 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\John Obama\.config\yasb
+2025-10-06 23:25:00,474 [INFO] [Dummy-9] [root/event_listener.py:51]: Created named pipe yasb-0171b9be-a2d1-11f0-bbf3-e30f1c17f070
+2025-10-06 23:25:00,503 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-06 23:25:00,504 [DEBUG] [Dummy-13] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-06 23:25:00,660 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:25:00,660 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:25:08,466 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-06 23:25:08,578 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-06 23:25:08,578 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-06 23:25:08,588 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-06 23:25:08,635 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-10-06 23:25:08,635 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-06 23:25:08,637 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2025-10-06 23:25:08,668 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-06 23:25:08,671 [DEBUG] [Dummy-13] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-06 23:25:08,676 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-06 23:25:08,938 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-06 23:25:08,938 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-06 23:25:08,938 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-06 23:25:09,081 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-06 23:25:09,316 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-06 23:25:09,696 [ERROR] [Thread-6 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 23:25:09,846 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-10-06 23:25:09,852 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-10-06 23:25:09,852 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-06 23:25:09,852 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\John Obama\.config\yasb
+2025-10-06 23:25:09,853 [INFO] [Dummy-9] [root/event_listener.py:51]: Created named pipe yasb-070b3a0f-a2d1-11f0-bf82-e30f1c17f070
+2025-10-06 23:25:09,891 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-06 23:25:09,892 [DEBUG] [Dummy-13] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-06 23:25:10,022 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-10-06 23:25:10,022 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:25:18,031 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-06 23:25:18,142 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-06 23:25:18,142 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-06 23:25:18,148 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-06 23:25:18,187 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-10-06 23:25:18,187 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-06 23:25:18,188 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2025-10-06 23:25:18,215 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-06 23:25:18,230 [DEBUG] [Dummy-13] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-06 23:25:18,233 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-06 23:25:18,473 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-06 23:25:18,474 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-06 23:25:18,474 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-06 23:25:18,620 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-06 23:25:18,834 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-06 23:25:19,189 [ERROR] [Thread-6 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 23:25:19,383 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-10-06 23:25:19,387 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-10-06 23:25:19,387 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-06 23:25:19,388 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\John Obama\.config\yasb
+2025-10-06 23:25:19,394 [INFO] [Dummy-9] [root/event_listener.py:51]: Created named pipe yasb-0cba0f97-a2d1-11f0-8b80-e30f1c17f070
+2025-10-06 23:25:19,423 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-06 23:25:19,425 [DEBUG] [Dummy-13] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-06 23:25:49,434 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-06 23:25:49,550 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-06 23:25:49,550 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-06 23:25:49,557 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-06 23:25:49,601 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-10-06 23:25:49,601 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-06 23:25:49,602 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2025-10-06 23:25:49,613 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-06 23:25:49,617 [DEBUG] [Dummy-13] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-06 23:25:49,622 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-06 23:25:49,899 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-06 23:25:49,899 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-06 23:25:49,899 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-06 23:25:50,047 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-06 23:25:50,244 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-06 23:25:50,621 [ERROR] [Thread-3 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 23:25:50,786 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-10-06 23:25:50,793 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-06 23:25:50,793 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-10-06 23:25:50,793 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\John Obama\.config\yasb
+2025-10-06 23:25:50,794 [INFO] [Dummy-9] [root/event_listener.py:51]: Created named pipe yasb-1f723e0f-a2d1-11f0-8e81-e30f1c17f070
+2025-10-06 23:25:50,832 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-06 23:25:50,833 [DEBUG] [Dummy-13] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-06 23:26:09,690 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-06 23:26:09,793 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-06 23:26:09,793 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-06 23:26:09,800 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-06 23:26:09,847 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-06 23:26:09,847 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-10-06 23:26:09,849 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2025-10-06 23:26:09,855 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-06 23:26:09,878 [DEBUG] [Dummy-13] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-06 23:26:09,882 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-06 23:26:10,134 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-06 23:26:10,134 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-06 23:26:10,134 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-06 23:26:10,264 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-06 23:26:10,463 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-06 23:26:10,868 [ERROR] [Thread-3 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 23:26:11,012 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-10-06 23:26:11,017 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-06 23:26:11,017 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\John Obama\.config\yasb
+2025-10-06 23:26:11,049 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-06 23:26:11,050 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-06 23:27:10,781 [ERROR] [Thread-11 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 23:27:13,831 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-10-06 23:27:13,831 [INFO] [Thread-1 (_run_server)] [root/controller.py:35]: Exiting Application from CLI...
+2025-10-06 23:27:13,937 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-06 23:27:13,937 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-06 23:27:13,976 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-06 23:27:13,978 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2025-10-06 23:27:13,980 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-06 23:27:13,988 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-06 23:27:13,994 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-06 23:27:16,407 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-06 23:27:16,407 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-06 23:27:16,407 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-06 23:27:16,663 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-06 23:27:16,723 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-06 23:27:17,607 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-06 23:27:17,607 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-06 23:27:17,609 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\John Obama\.config\yasb
+2025-10-06 23:27:17,639 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-06 23:27:17,640 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-06 23:27:17,649 [DEBUG] [MainThread] [systray_widget/systray.py:538]: Loading state from C:\Users\John Obama\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-06 23:27:17,649 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-10-06 23:27:17,651 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-10-06 23:27:17,654 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 723236
+2025-10-06 23:27:17,654 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 723236
+2025-10-06 23:27:17,665 [DEBUG] [MainThread] [systray_widget/systray.py:285]: Systray thread started
+2025-10-06 23:27:17,867 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 723236
+2025-10-06 23:27:17,867 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-10-06 23:27:17,875 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49328
+2025-10-06 23:27:18,894 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-06 23:27:18,894 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-06 23:28:03,801 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-06 23:28:03,916 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-06 23:28:03,916 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-06 23:28:03,916 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-06 23:28:04,049 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-06 23:28:04,050 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-06 23:28:04,050 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-06 23:28:04,050 [DEBUG] [MainThread] [systray_widget/systray.py:516]: Saving state to disk
+2025-10-06 23:28:04,051 [DEBUG] [MainThread] [systray_widget/systray.py:520]: Saving state to C:\Users\John Obama\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-06 23:28:04,055 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-06 23:28:04,066 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-06 23:28:04,070 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-06 23:28:04,111 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 327996
+2025-10-06 23:28:04,111 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 723236
+2025-10-06 23:28:04,313 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-06 23:28:04,315 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-06 23:28:04,315 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-06 23:28:04,573 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-06 23:28:04,917 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-06 23:28:05,463 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-06 23:28:05,463 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-06 23:28:05,468 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\John Obama\.config\yasb
+2025-10-06 23:28:05,495 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-06 23:28:05,495 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-06 23:28:05,500 [DEBUG] [MainThread] [systray_widget/systray.py:538]: Loading state from C:\Users\John Obama\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-06 23:28:05,500 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-10-06 23:28:05,500 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-10-06 23:28:05,503 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 3213140
+2025-10-06 23:28:05,503 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 3213140
+2025-10-06 23:28:05,518 [DEBUG] [MainThread] [systray_widget/systray.py:285]: Systray thread started
+2025-10-06 23:28:05,720 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 3213140
+2025-10-06 23:28:05,720 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-10-06 23:28:05,731 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49328
+2025-10-06 23:28:06,729 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-06 23:28:06,729 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-06 23:28:09,315 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-06 23:28:09,426 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-06 23:28:09,426 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-06 23:28:09,430 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-06 23:28:09,541 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-06 23:28:09,541 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-06 23:28:09,541 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-06 23:28:09,541 [DEBUG] [MainThread] [systray_widget/systray.py:516]: Saving state to disk
+2025-10-06 23:28:09,542 [DEBUG] [MainThread] [systray_widget/systray.py:520]: Saving state to C:\Users\John Obama\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-06 23:28:09,545 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-06 23:28:09,548 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-06 23:28:09,552 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-06 23:28:09,577 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 983322
+2025-10-06 23:28:09,577 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 3213140
+2025-10-06 23:28:09,789 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-06 23:28:09,789 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-06 23:28:09,789 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-06 23:28:10,057 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-06 23:28:10,116 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-06 23:28:10,999 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-06 23:28:10,999 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-06 23:28:10,999 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\John Obama\.config\yasb
+2025-10-06 23:28:11,031 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-06 23:28:11,032 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-06 23:28:11,038 [DEBUG] [MainThread] [systray_widget/systray.py:538]: Loading state from C:\Users\John Obama\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-06 23:28:11,040 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-10-06 23:28:11,040 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-10-06 23:28:11,047 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 1312898
+2025-10-06 23:28:11,047 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 1312898
+2025-10-06 23:28:11,058 [DEBUG] [MainThread] [systray_widget/systray.py:285]: Systray thread started
+2025-10-06 23:28:11,259 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 1312898
+2025-10-06 23:28:11,259 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-10-06 23:28:11,267 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49328
+2025-10-06 23:28:12,283 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-06 23:28:12,283 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-06 23:28:53,650 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-10-06 23:28:53,650 [INFO] [Thread-1 (_run_server)] [root/controller.py:35]: Exiting Application from CLI...
+2025-10-06 23:28:53,694 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-06 23:28:53,754 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-06 23:28:53,754 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-06 23:28:53,806 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-06 23:28:53,806 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-06 23:28:53,887 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-06 23:28:53,887 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-06 23:28:53,887 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-06 23:28:53,887 [DEBUG] [MainThread] [systray_widget/systray.py:516]: Saving state to disk
+2025-10-06 23:28:53,887 [DEBUG] [MainThread] [systray_widget/systray.py:520]: Saving state to C:\Users\John Obama\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-06 23:28:53,894 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-06 23:28:53,898 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-06 23:28:53,916 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-06 23:28:53,919 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-06 23:28:53,932 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 2361004
+2025-10-06 23:28:53,932 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 1312898
+2025-10-06 23:28:54,187 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-06 23:28:54,187 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-06 23:28:54,187 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-06 23:28:54,204 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-06 23:28:54,204 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-06 23:28:54,204 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-06 23:28:54,204 [INFO] [MainThread] [root/main.py:47]: Waiting for previous YASB instance to exit...
+2025-10-06 23:28:54,314 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-06 23:28:54,524 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-06 23:28:54,914 [ERROR] [Thread-3 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 23:28:55,087 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-10-06 23:28:55,092 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-06 23:28:55,093 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\John Obama\.config\yasb
+2025-10-06 23:28:55,126 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-06 23:28:55,127 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-06 23:29:04,225 [ERROR] [MainThread] [root/main.py:70]: Timeout waiting for previous instance. Aborting start.
+2025-10-06 23:29:49,236 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-06 23:29:49,350 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-06 23:29:49,350 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-06 23:29:49,356 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-06 23:29:49,408 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-06 23:29:49,409 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2025-10-06 23:29:49,418 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-06 23:29:49,426 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-06 23:29:49,432 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-06 23:29:49,686 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-06 23:29:49,686 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-06 23:29:49,688 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-06 23:29:49,816 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-06 23:29:50,029 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-06 23:29:50,624 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-10-06 23:29:50,630 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-06 23:29:50,632 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\John Obama\.config\yasb
+2025-10-06 23:29:50,667 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-06 23:29:50,668 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-06 23:29:50,870 [ERROR] [Thread-3 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 23:30:31,037 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-06 23:30:31,143 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-06 23:30:31,143 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-06 23:30:31,150 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-06 23:30:31,211 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-06 23:30:31,212 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2025-10-06 23:30:31,217 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-06 23:30:31,219 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-06 23:30:31,230 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-06 23:30:31,518 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-06 23:30:31,519 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-06 23:30:31,519 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-06 23:30:31,659 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-06 23:30:31,727 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-06 23:30:32,332 [ERROR] [Thread-3 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 23:30:32,591 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-10-06 23:30:32,598 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-06 23:30:32,598 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\John Obama\.config\yasb
+2025-10-06 23:30:32,642 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-06 23:30:32,645 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-06 23:30:32,703 [ERROR] [MainThread] [root/media.py:1049]: Error creating corner mask, return default thumb: y1 must be greater than or equal to y0
+2025-10-06 23:31:10,960 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-06 23:31:11,071 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-06 23:31:11,071 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-06 23:31:11,078 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-06 23:31:11,135 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-06 23:31:11,136 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2025-10-06 23:31:11,145 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-06 23:31:11,146 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-06 23:31:11,157 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-06 23:31:11,443 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-06 23:31:11,443 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-06 23:31:11,443 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-06 23:31:11,578 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-06 23:31:11,744 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-06 23:31:12,143 [ERROR] [Thread-3 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 23:31:12,361 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-06 23:31:12,361 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\John Obama\.config\yasb
+2025-10-06 23:31:12,388 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-06 23:31:12,388 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-06 23:31:12,445 [ERROR] [MainThread] [root/media.py:1049]: Error creating corner mask, return default thumb: y1 must be greater than or equal to y0
+2025-10-06 23:31:23,232 [ERROR] [MainThread] [root/media.py:1049]: Error creating corner mask, return default thumb: y1 must be greater than or equal to y0
+2025-10-06 23:31:23,232 [ERROR] [MainThread] [root/media.py:1049]: Error creating corner mask, return default thumb: y1 must be greater than or equal to y0
+2025-10-06 23:31:23,243 [ERROR] [MainThread] [root/media.py:1049]: Error creating corner mask, return default thumb: y1 must be greater than or equal to y0
+2025-10-06 23:31:23,243 [ERROR] [MainThread] [root/media.py:1049]: Error creating corner mask, return default thumb: y1 must be greater than or equal to y0
+2025-10-06 23:31:25,559 [ERROR] [MainThread] [root/media.py:1049]: Error creating corner mask, return default thumb: y1 must be greater than or equal to y0
+2025-10-06 23:31:31,292 [ERROR] [MainThread] [root/media.py:1049]: Error creating corner mask, return default thumb: y1 must be greater than or equal to y0
+2025-10-06 23:31:41,034 [ERROR] [MainThread] [root/media.py:1049]: Error creating corner mask, return default thumb: y1 must be greater than or equal to y0
+2025-10-06 23:31:41,038 [ERROR] [MainThread] [root/media.py:1049]: Error creating corner mask, return default thumb: y1 must be greater than or equal to y0
+2025-10-06 23:31:41,041 [ERROR] [MainThread] [root/media.py:1049]: Error creating corner mask, return default thumb: y1 must be greater than or equal to y0
+2025-10-06 23:31:41,046 [ERROR] [MainThread] [root/media.py:1049]: Error creating corner mask, return default thumb: y1 must be greater than or equal to y0
+2025-10-06 23:31:41,050 [ERROR] [MainThread] [root/media.py:1049]: Error creating corner mask, return default thumb: y1 must be greater than or equal to y0
+2025-10-06 23:31:41,055 [ERROR] [MainThread] [root/media.py:1049]: Error creating corner mask, return default thumb: y1 must be greater than or equal to y0
+2025-10-06 23:31:41,058 [ERROR] [MainThread] [root/media.py:1049]: Error creating corner mask, return default thumb: y1 must be greater than or equal to y0
+2025-10-06 23:32:12,109 [ERROR] [Thread-11 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 23:32:14,173 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-10-06 23:32:14,173 [INFO] [Thread-1 (_run_server)] [root/controller.py:35]: Exiting Application from CLI...
+2025-10-06 23:32:14,293 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-06 23:32:14,293 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-06 23:32:14,348 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-06 23:32:14,351 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-06 23:32:14,369 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-06 23:32:14,373 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-06 23:32:16,653 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-06 23:32:16,653 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-06 23:32:16,653 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-06 23:32:16,805 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-06 23:32:16,924 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-06 23:32:17,528 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-10-06 23:32:17,536 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-10-06 23:32:17,537 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-06 23:32:17,537 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\John Obama\.config\yasb
+2025-10-06 23:32:17,551 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-05f69e7b-a2d2-11f0-8c4f-e30f1c17f070
+2025-10-06 23:32:17,583 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-06 23:32:17,585 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-06 23:32:17,902 [ERROR] [MainThread] [root/api.py:84]: Weather response error 403: API key has been disabled.
+2025-10-06 23:32:17,903 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:32:28,114 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2025-10-06 23:32:28,114 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:32:38,314 [ERROR] [MainThread] [root/api.py:84]: Weather response error 403: API key has been disabled.
+2025-10-06 23:32:38,314 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:32:48,524 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2025-10-06 23:32:48,524 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:32:58,747 [ERROR] [MainThread] [root/api.py:84]: Weather response error 403: API key has been disabled.
+2025-10-06 23:32:58,747 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:33:08,964 [ERROR] [MainThread] [root/api.py:84]: Weather response error 403: API key has been disabled.
+2025-10-06 23:33:08,964 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:33:19,174 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2025-10-06 23:33:19,174 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:33:29,381 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2025-10-06 23:33:29,381 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:33:39,589 [ERROR] [MainThread] [root/api.py:84]: Weather response error 403: API key has been disabled.
+2025-10-06 23:33:39,589 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:33:49,811 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2025-10-06 23:33:49,811 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:34:00,030 [ERROR] [MainThread] [root/api.py:84]: Weather response error 403: API key has been disabled.
+2025-10-06 23:34:00,035 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:34:10,246 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2025-10-06 23:34:10,246 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:34:20,457 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2025-10-06 23:34:20,457 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:34:30,657 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2025-10-06 23:34:30,657 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-06 23:34:38,957 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-10-06 23:34:38,957 [INFO] [Thread-1 (_run_server)] [root/controller.py:35]: Exiting Application from CLI...
+2025-10-06 23:34:38,997 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-06 23:34:39,060 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-06 23:34:39,060 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-06 23:34:39,107 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-06 23:34:39,107 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-06 23:34:39,157 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-10-06 23:34:39,158 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-06 23:34:39,158 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2025-10-06 23:34:39,164 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-06 23:34:39,192 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-06 23:34:39,211 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-06 23:34:39,216 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-06 23:34:39,493 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-06 23:34:39,497 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-06 23:34:39,497 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-06 23:34:39,497 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-06 23:34:39,497 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-06 23:34:39,497 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-06 23:34:39,497 [INFO] [MainThread] [root/main.py:47]: Waiting for previous YASB instance to exit...
+2025-10-06 23:34:39,627 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-06 23:34:39,831 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-06 23:34:40,209 [ERROR] [Thread-3 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 23:34:40,599 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-10-06 23:34:40,605 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-06 23:34:40,605 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\John Obama\.config\yasb
+2025-10-06 23:34:40,641 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-06 23:34:40,641 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-06 23:34:49,513 [ERROR] [MainThread] [root/main.py:70]: Timeout waiting for previous instance. Aborting start.
+2025-10-06 23:35:40,099 [ERROR] [Thread-11 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 23:35:52,379 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-06 23:35:52,487 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-06 23:35:52,487 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-06 23:35:52,494 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-06 23:35:52,555 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-06 23:35:52,557 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2025-10-06 23:35:52,564 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-06 23:35:52,565 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-06 23:35:52,590 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-06 23:35:52,885 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-06 23:35:52,885 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-06 23:35:52,885 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-06 23:35:53,039 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-06 23:35:53,256 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-06 23:35:53,644 [ERROR] [Thread-3 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 23:35:54,032 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-10-06 23:35:54,039 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-06 23:35:54,039 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\John Obama\.config\yasb
+2025-10-06 23:35:54,073 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-06 23:35:54,074 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-06 23:36:53,593 [ERROR] [Thread-11 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 23:37:07,061 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-06 23:37:07,165 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-06 23:37:07,165 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-06 23:37:07,173 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-06 23:37:07,240 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-06 23:37:07,241 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2025-10-06 23:37:07,258 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-06 23:37:07,273 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-06 23:37:07,284 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-06 23:37:07,598 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-06 23:37:07,599 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-06 23:37:07,599 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-06 23:37:07,721 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-06 23:37:07,846 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-06 23:37:08,421 [ERROR] [Thread-6 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 23:37:09,192 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-10-06 23:37:09,199 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-06 23:37:09,199 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\John Obama\.config\yasb
+2025-10-06 23:37:09,243 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-06 23:37:09,244 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-06 23:37:25,384 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-06 23:37:25,493 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-06 23:37:25,493 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-06 23:37:25,494 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-06 23:37:25,554 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-06 23:37:25,555 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2025-10-06 23:37:25,564 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-06 23:37:25,573 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-06 23:37:25,582 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-06 23:37:25,885 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-06 23:37:25,885 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-06 23:37:25,885 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-06 23:37:26,013 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-06 23:37:26,111 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-06 23:37:26,679 [ERROR] [Thread-3 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 23:37:26,979 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-10-06 23:37:26,987 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-06 23:37:26,987 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\John Obama\.config\yasb
+2025-10-06 23:37:27,019 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-06 23:37:27,020 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-06 23:38:26,633 [ERROR] [Thread-11 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 23:38:36,404 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-06 23:38:36,511 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-06 23:38:36,511 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-06 23:38:36,517 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-06 23:38:36,582 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-06 23:38:36,584 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2025-10-06 23:38:36,589 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-06 23:38:36,591 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-06 23:38:36,611 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-06 23:38:36,913 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-06 23:38:36,913 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-06 23:38:36,913 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-06 23:38:36,996 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-06 23:38:37,134 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-06 23:38:37,728 [ERROR] [Thread-3 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 23:38:38,036 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-10-06 23:38:38,044 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-06 23:38:38,044 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\John Obama\.config\yasb
+2025-10-06 23:38:38,082 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-06 23:38:38,084 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-06 23:39:37,725 [ERROR] [Thread-11 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 23:40:37,635 [ERROR] [Thread-12 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 23:41:37,608 [ERROR] [Thread-13 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 23:42:37,621 [ERROR] [Thread-14 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 23:43:37,660 [ERROR] [Thread-15 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 23:43:59,214 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-06 23:43:59,323 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-06 23:43:59,323 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-06 23:43:59,330 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-06 23:43:59,394 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-06 23:43:59,395 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2025-10-06 23:43:59,398 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-06 23:43:59,408 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-06 23:43:59,415 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-06 23:43:59,703 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-06 23:43:59,703 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-06 23:43:59,703 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-06 23:43:59,823 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-06 23:43:59,922 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-06 23:44:00,512 [ERROR] [Thread-3 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 23:44:00,773 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-10-06 23:44:00,780 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-06 23:44:00,780 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\John Obama\.config\yasb
+2025-10-06 23:44:00,814 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-06 23:44:00,815 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-06 23:44:18,833 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-06 23:44:18,938 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-06 23:44:18,938 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-06 23:44:18,943 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-06 23:44:18,993 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-06 23:44:18,993 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2025-10-06 23:44:19,001 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-06 23:44:19,019 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-06 23:44:19,028 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-06 23:44:19,318 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-06 23:44:19,318 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-06 23:44:19,318 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-06 23:44:19,439 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-06 23:44:19,533 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-06 23:44:20,183 [ERROR] [Thread-3 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 23:44:20,358 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-10-06 23:44:20,365 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-06 23:44:20,365 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\John Obama\.config\yasb
+2025-10-06 23:44:20,397 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-06 23:44:20,398 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-06 23:44:35,338 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-06 23:44:35,454 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-06 23:44:35,454 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-06 23:44:35,459 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-06 23:44:35,515 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-06 23:44:35,518 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2025-10-06 23:44:35,524 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-06 23:44:35,526 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-06 23:44:35,533 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
