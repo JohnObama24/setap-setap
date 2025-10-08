@@ -1910,3 +1910,1359 @@ RuntimeError: wrapped C/C++ object of type MediaWidget has been deleted
 2025-10-06 23:44:35,524 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
 2025-10-06 23:44:35,526 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
 2025-10-06 23:44:35,533 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-06 23:44:35,838 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-06 23:44:35,839 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-06 23:44:35,839 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-06 23:44:35,961 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-06 23:44:36,065 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-06 23:44:36,648 [ERROR] [Thread-3 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 23:44:36,862 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-10-06 23:44:36,869 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-06 23:44:36,869 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\John Obama\.config\yasb
+2025-10-06 23:44:36,902 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-06 23:44:36,903 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-06 23:45:36,553 [ERROR] [Thread-11 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 23:46:36,571 [ERROR] [Thread-12 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 23:47:36,607 [ERROR] [Thread-13 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 23:48:36,579 [ERROR] [Thread-14 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 23:49:40,354 [ERROR] [Thread-15 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 23:50:36,584 [ERROR] [Thread-16 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 23:51:36,646 [ERROR] [Thread-17 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 23:52:36,615 [ERROR] [Thread-18 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 23:53:36,594 [ERROR] [Thread-19 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 23:54:36,723 [ERROR] [Thread-20 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 23:55:36,603 [ERROR] [Thread-21 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 23:56:36,561 [ERROR] [Thread-22 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 23:57:36,563 [ERROR] [Thread-23 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 23:58:36,608 [ERROR] [Thread-24 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-06 23:59:37,035 [ERROR] [Thread-25 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 00:00:36,592 [ERROR] [Thread-26 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 00:01:36,620 [ERROR] [Thread-27 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 00:02:36,679 [ERROR] [Thread-28 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 00:03:36,902 [ERROR] [Thread-29 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 00:04:36,646 [ERROR] [Thread-30 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 00:05:36,739 [ERROR] [Thread-31 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 00:06:36,804 [ERROR] [Thread-32 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 00:06:47,611 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-07 00:06:47,611 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2025-10-07 00:06:47,729 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-07 08:07:36,460 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-07 08:07:36,460 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-07 08:07:36,460 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-07 08:07:36,583 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-07 08:07:36,755 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-07 08:07:37,563 [ERROR] [Thread-6 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:07:39,228 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-10-07 08:07:39,235 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-07 08:07:39,236 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\John Obama\.config\yasb
+2025-10-07 08:07:39,303 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-07 08:07:39,303 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-07 08:08:37,662 [ERROR] [Thread-11 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:09:37,979 [ERROR] [Thread-12 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:10:37,393 [ERROR] [Thread-13 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:11:40,448 [ERROR] [Thread-14 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:12:38,882 [ERROR] [Thread-15 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:13:42,796 [ERROR] [Thread-16 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:14:37,380 [ERROR] [Thread-17 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:15:37,566 [ERROR] [Thread-18 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:16:37,472 [ERROR] [Thread-19 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:17:37,485 [ERROR] [Thread-20 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:18:37,812 [ERROR] [Thread-21 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:19:37,387 [ERROR] [Thread-22 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:20:37,522 [ERROR] [Thread-23 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:21:37,519 [ERROR] [Thread-24 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:22:37,399 [ERROR] [Thread-25 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:23:37,396 [ERROR] [Thread-26 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:24:37,418 [ERROR] [Thread-27 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:25:37,505 [ERROR] [Thread-28 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:26:37,423 [ERROR] [Thread-29 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:27:37,428 [ERROR] [Thread-30 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:28:37,457 [ERROR] [Thread-31 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:29:37,904 [ERROR] [Thread-32 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:30:37,475 [ERROR] [Thread-33 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:31:37,473 [ERROR] [Thread-34 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:32:37,439 [ERROR] [Thread-35 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:33:37,480 [ERROR] [Thread-36 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:34:37,499 [ERROR] [Thread-37 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:35:37,528 [ERROR] [Thread-38 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:36:37,432 [ERROR] [Thread-39 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:37:37,460 [ERROR] [Thread-40 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:38:37,480 [ERROR] [Thread-41 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:39:37,543 [ERROR] [Thread-42 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:40:37,459 [ERROR] [Thread-43 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:41:37,445 [ERROR] [Thread-44 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:42:38,112 [ERROR] [Thread-45 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:43:37,475 [ERROR] [Thread-46 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:44:37,855 [ERROR] [Thread-47 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:45:37,544 [ERROR] [Thread-48 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:46:37,532 [ERROR] [Thread-49 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:47:37,439 [ERROR] [Thread-50 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:48:37,416 [ERROR] [Thread-51 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:49:37,957 [ERROR] [Thread-52 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:50:37,457 [ERROR] [Thread-53 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:51:37,504 [ERROR] [Thread-54 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:52:38,148 [ERROR] [Thread-55 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:53:37,586 [ERROR] [Thread-56 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:54:37,501 [ERROR] [Thread-57 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:55:37,581 [ERROR] [Thread-58 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:56:37,507 [ERROR] [Thread-59 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:57:37,543 [ERROR] [Thread-60 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:58:37,677 [ERROR] [Thread-61 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 08:59:37,518 [ERROR] [Thread-62 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:00:37,579 [ERROR] [Thread-63 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:01:37,524 [ERROR] [Thread-64 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:02:37,615 [ERROR] [Thread-65 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:03:37,820 [ERROR] [Thread-66 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:04:38,888 [ERROR] [Thread-67 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:05:37,994 [ERROR] [Thread-68 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:06:38,553 [ERROR] [Thread-69 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:07:37,541 [ERROR] [Thread-70 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:08:37,941 [ERROR] [Thread-71 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:09:37,509 [ERROR] [Thread-72 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:10:37,531 [ERROR] [Thread-73 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:11:37,708 [ERROR] [Thread-74 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:12:37,560 [ERROR] [Thread-75 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:13:37,564 [ERROR] [Thread-76 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:14:37,575 [ERROR] [Thread-77 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:15:40,209 [ERROR] [Thread-78 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:16:37,595 [ERROR] [Thread-79 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:17:37,641 [ERROR] [Thread-80 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:18:38,083 [ERROR] [Thread-81 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:19:38,017 [ERROR] [Thread-82 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:20:37,611 [ERROR] [Thread-83 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:21:37,880 [ERROR] [Thread-84 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:22:37,665 [ERROR] [Thread-85 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:23:37,899 [ERROR] [Thread-86 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:24:37,649 [ERROR] [Thread-87 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:25:37,615 [ERROR] [Thread-88 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:26:37,635 [ERROR] [Thread-89 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:27:37,665 [ERROR] [Thread-90 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:28:38,219 [ERROR] [Thread-91 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:29:37,704 [ERROR] [Thread-92 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:30:37,700 [ERROR] [Thread-93 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:31:37,603 [ERROR] [Thread-94 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:32:37,656 [ERROR] [Thread-95 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:33:37,883 [ERROR] [Thread-96 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:34:37,668 [ERROR] [Thread-97 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:35:48,181 [ERROR] [Thread-98 (_get_github_data)] [root/github.py:509]: An unexpected error occurred: Remote end closed connection without response
+2025-10-07 09:36:42,416 [ERROR] [Thread-99 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:37:38,214 [ERROR] [Thread-100 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:38:38,056 [ERROR] [Thread-101 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:39:37,717 [ERROR] [Thread-102 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:40:37,995 [ERROR] [Thread-103 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:41:38,091 [ERROR] [Thread-104 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:42:38,138 [ERROR] [Thread-105 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:43:41,384 [ERROR] [Thread-106 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:44:37,697 [ERROR] [Thread-107 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:45:37,681 [ERROR] [Thread-108 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:46:37,663 [ERROR] [Thread-109 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:47:37,962 [ERROR] [Thread-110 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:48:37,702 [ERROR] [Thread-111 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:49:37,900 [ERROR] [Thread-112 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:50:38,215 [ERROR] [Thread-113 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:51:38,194 [ERROR] [Thread-114 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:52:37,639 [ERROR] [Thread-115 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:53:38,137 [ERROR] [Thread-116 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:54:37,793 [ERROR] [Thread-117 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:55:37,675 [ERROR] [Thread-118 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:56:37,734 [ERROR] [Thread-119 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:57:38,146 [ERROR] [Thread-120 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:58:37,654 [ERROR] [Thread-121 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 09:59:37,747 [ERROR] [Thread-122 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:00:38,149 [ERROR] [Thread-123 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:01:37,699 [ERROR] [Thread-124 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:02:38,162 [ERROR] [Thread-125 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:03:37,698 [ERROR] [Thread-126 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:04:37,670 [ERROR] [Thread-127 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:05:37,956 [ERROR] [Thread-128 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:06:37,784 [ERROR] [Thread-129 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:07:37,688 [ERROR] [Thread-130 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:08:37,674 [ERROR] [Thread-131 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:09:37,677 [ERROR] [Thread-132 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:10:37,731 [ERROR] [Thread-133 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:11:37,735 [ERROR] [Thread-134 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:12:38,160 [ERROR] [Thread-135 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:13:38,171 [ERROR] [Thread-136 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:14:37,711 [ERROR] [Thread-137 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:15:37,723 [ERROR] [Thread-138 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:16:37,764 [ERROR] [Thread-139 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:17:38,183 [ERROR] [Thread-140 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:18:37,767 [ERROR] [Thread-141 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:19:37,724 [ERROR] [Thread-142 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:20:37,763 [ERROR] [Thread-143 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:21:37,749 [ERROR] [Thread-144 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:22:37,770 [ERROR] [Thread-145 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:23:37,746 [ERROR] [Thread-146 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:25:37,319 [ERROR] [Thread-148 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:26:37,317 [ERROR] [Thread-149 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:27:37,315 [ERROR] [Thread-150 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:28:37,311 [ERROR] [Thread-151 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:29:37,319 [ERROR] [Thread-152 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:30:37,317 [ERROR] [Thread-153 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:31:37,318 [ERROR] [Thread-154 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:32:37,322 [ERROR] [Thread-155 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:33:37,312 [ERROR] [Thread-156 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:34:37,317 [ERROR] [Thread-157 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:35:38,202 [ERROR] [Thread-158 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:36:38,747 [ERROR] [Thread-159 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:37:37,783 [ERROR] [Thread-160 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:38:37,740 [ERROR] [Thread-161 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:39:37,683 [ERROR] [Thread-162 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:40:38,726 [ERROR] [Thread-163 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:41:37,776 [ERROR] [Thread-164 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:42:41,998 [ERROR] [Thread-165 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:43:37,743 [ERROR] [Thread-166 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:44:37,773 [ERROR] [Thread-167 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:45:38,520 [ERROR] [Thread-168 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:46:37,773 [ERROR] [Thread-169 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:47:37,792 [ERROR] [Thread-170 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:48:37,897 [ERROR] [Thread-171 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:49:37,746 [ERROR] [Thread-172 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:50:37,836 [ERROR] [Thread-173 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:51:37,777 [ERROR] [Thread-174 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:52:37,740 [ERROR] [Thread-175 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:53:38,873 [ERROR] [Thread-176 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:54:38,225 [ERROR] [Thread-177 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:55:38,315 [ERROR] [Thread-178 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:56:37,749 [ERROR] [Thread-179 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:57:37,784 [ERROR] [Thread-180 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:58:37,788 [ERROR] [Thread-181 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 10:59:37,745 [ERROR] [Thread-182 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:00:37,768 [ERROR] [Thread-183 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:01:37,796 [ERROR] [Thread-184 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:02:38,055 [ERROR] [Thread-185 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:03:38,924 [ERROR] [Thread-186 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:04:37,865 [ERROR] [Thread-187 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:05:37,897 [ERROR] [Thread-188 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:06:37,809 [ERROR] [Thread-189 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:07:37,839 [ERROR] [Thread-190 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:08:37,823 [ERROR] [Thread-191 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:09:37,957 [ERROR] [Thread-192 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:10:37,860 [ERROR] [Thread-193 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:11:37,837 [ERROR] [Thread-194 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:12:37,843 [ERROR] [Thread-195 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:13:37,820 [ERROR] [Thread-196 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:14:37,834 [ERROR] [Thread-197 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:15:37,796 [ERROR] [Thread-198 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:16:38,384 [ERROR] [Thread-199 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:17:37,882 [ERROR] [Thread-200 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:18:37,864 [ERROR] [Thread-201 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:19:37,897 [ERROR] [Thread-202 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:20:37,829 [ERROR] [Thread-203 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:21:37,921 [ERROR] [Thread-204 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:22:37,977 [ERROR] [Thread-205 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:23:38,284 [ERROR] [Thread-206 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:24:37,956 [ERROR] [Thread-207 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:25:37,907 [ERROR] [Thread-208 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:26:37,848 [ERROR] [Thread-209 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:27:37,827 [ERROR] [Thread-210 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:28:37,864 [ERROR] [Thread-211 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:29:37,819 [ERROR] [Thread-212 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:30:37,839 [ERROR] [Thread-213 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:31:37,826 [ERROR] [Thread-214 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:32:38,289 [ERROR] [Thread-215 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:33:37,850 [ERROR] [Thread-216 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:34:37,854 [ERROR] [Thread-217 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:35:37,887 [ERROR] [Thread-218 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:36:37,866 [ERROR] [Thread-219 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:37:38,380 [ERROR] [Thread-220 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:38:37,874 [ERROR] [Thread-221 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:39:37,920 [ERROR] [Thread-222 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:40:37,884 [ERROR] [Thread-223 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:41:37,913 [ERROR] [Thread-224 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:42:37,892 [ERROR] [Thread-225 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:43:37,869 [ERROR] [Thread-226 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:44:37,945 [ERROR] [Thread-227 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:45:37,998 [ERROR] [Thread-228 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:46:37,918 [ERROR] [Thread-229 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:47:38,006 [ERROR] [Thread-230 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:48:38,058 [ERROR] [Thread-231 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:49:37,977 [ERROR] [Thread-232 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:50:37,949 [ERROR] [Thread-233 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:51:37,956 [ERROR] [Thread-234 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:52:38,480 [ERROR] [Thread-235 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:53:38,751 [ERROR] [Thread-236 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:54:37,527 [ERROR] [Thread-237 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:55:37,529 [ERROR] [Thread-238 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:56:37,537 [ERROR] [Thread-239 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:57:37,530 [ERROR] [Thread-240 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:58:37,531 [ERROR] [Thread-241 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 11:59:37,532 [ERROR] [Thread-242 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:00:37,545 [ERROR] [Thread-243 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:01:37,537 [ERROR] [Thread-244 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:02:37,539 [ERROR] [Thread-245 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:03:37,540 [ERROR] [Thread-246 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:04:37,529 [ERROR] [Thread-247 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:05:37,533 [ERROR] [Thread-248 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:06:37,541 [ERROR] [Thread-249 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:07:37,552 [ERROR] [Thread-250 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:08:37,546 [ERROR] [Thread-251 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:09:37,549 [ERROR] [Thread-252 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:10:37,548 [ERROR] [Thread-253 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:11:37,555 [ERROR] [Thread-254 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:12:37,547 [ERROR] [Thread-255 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:12:48,709 [ERROR] [Thread-147 (_get_github_data)] [root/github.py:509]: An unexpected error occurred: Remote end closed connection without response
+2025-10-07 12:13:37,571 [ERROR] [Thread-256 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:14:37,565 [ERROR] [Thread-257 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:15:37,563 [ERROR] [Thread-258 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:16:37,563 [ERROR] [Thread-259 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:17:37,573 [ERROR] [Thread-260 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:18:37,564 [ERROR] [Thread-261 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:19:37,570 [ERROR] [Thread-262 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:20:37,564 [ERROR] [Thread-263 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:21:37,569 [ERROR] [Thread-264 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:22:37,563 [ERROR] [Thread-265 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:23:37,564 [ERROR] [Thread-266 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:24:37,567 [ERROR] [Thread-267 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:25:37,572 [ERROR] [Thread-268 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:26:37,565 [ERROR] [Thread-269 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:27:37,564 [ERROR] [Thread-270 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:28:37,561 [ERROR] [Thread-271 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:29:37,568 [ERROR] [Thread-272 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:30:37,569 [ERROR] [Thread-273 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:31:37,566 [ERROR] [Thread-274 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:32:37,568 [ERROR] [Thread-275 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:33:37,560 [ERROR] [Thread-276 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:34:37,572 [ERROR] [Thread-277 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:35:37,582 [ERROR] [Thread-278 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:36:37,601 [ERROR] [Thread-279 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:37:37,604 [ERROR] [Thread-280 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:38:37,611 [ERROR] [Thread-281 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:39:37,610 [ERROR] [Thread-282 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:40:37,619 [ERROR] [Thread-283 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:41:37,621 [ERROR] [Thread-284 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:42:37,611 [ERROR] [Thread-285 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:43:37,610 [ERROR] [Thread-286 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:44:37,609 [ERROR] [Thread-287 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:45:37,614 [ERROR] [Thread-288 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:46:37,614 [ERROR] [Thread-289 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:47:37,617 [ERROR] [Thread-290 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:48:37,618 [ERROR] [Thread-291 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:49:37,621 [ERROR] [Thread-292 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:50:37,632 [ERROR] [Thread-293 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:51:37,629 [ERROR] [Thread-294 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:52:37,633 [ERROR] [Thread-295 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:53:37,620 [ERROR] [Thread-296 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:54:37,633 [ERROR] [Thread-297 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:55:37,636 [ERROR] [Thread-298 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:56:37,654 [ERROR] [Thread-299 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:57:37,642 [ERROR] [Thread-300 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:58:37,651 [ERROR] [Thread-301 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 12:59:37,655 [ERROR] [Thread-302 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:00:37,664 [ERROR] [Thread-303 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:01:37,667 [ERROR] [Thread-304 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:02:37,675 [ERROR] [Thread-305 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:03:37,676 [ERROR] [Thread-306 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:04:37,674 [ERROR] [Thread-307 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:05:37,670 [ERROR] [Thread-308 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:06:37,667 [ERROR] [Thread-309 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:07:37,680 [ERROR] [Thread-310 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:08:37,671 [ERROR] [Thread-311 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:09:37,672 [ERROR] [Thread-312 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:10:37,670 [ERROR] [Thread-313 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:11:37,676 [ERROR] [Thread-314 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:12:37,679 [ERROR] [Thread-315 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:13:37,686 [ERROR] [Thread-316 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:14:37,689 [ERROR] [Thread-317 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:15:49,728 [ERROR] [Thread-318 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:16:37,686 [ERROR] [Thread-319 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:17:37,686 [ERROR] [Thread-320 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:18:37,684 [ERROR] [Thread-321 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:19:37,684 [ERROR] [Thread-322 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:20:37,684 [ERROR] [Thread-323 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:21:37,699 [ERROR] [Thread-324 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:22:37,728 [ERROR] [Thread-325 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:23:37,713 [ERROR] [Thread-326 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:24:37,728 [ERROR] [Thread-327 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:25:37,719 [ERROR] [Thread-328 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:26:37,740 [ERROR] [Thread-329 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:27:37,736 [ERROR] [Thread-330 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:28:37,738 [ERROR] [Thread-331 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:29:37,738 [ERROR] [Thread-332 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:30:37,733 [ERROR] [Thread-333 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:31:37,746 [ERROR] [Thread-334 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:32:37,758 [ERROR] [Thread-335 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:33:37,754 [ERROR] [Thread-336 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:34:37,756 [ERROR] [Thread-337 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:35:37,755 [ERROR] [Thread-338 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:36:37,753 [ERROR] [Thread-339 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:37:37,757 [ERROR] [Thread-340 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:38:37,750 [ERROR] [Thread-341 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:39:37,764 [ERROR] [Thread-342 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:40:37,764 [ERROR] [Thread-343 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:41:37,760 [ERROR] [Thread-344 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:42:37,761 [ERROR] [Thread-345 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:43:37,767 [ERROR] [Thread-346 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:44:37,785 [ERROR] [Thread-347 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:45:37,792 [ERROR] [Thread-348 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:46:37,801 [ERROR] [Thread-349 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:47:37,809 [ERROR] [Thread-350 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:48:37,815 [ERROR] [Thread-351 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:49:37,822 [ERROR] [Thread-352 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:50:37,830 [ERROR] [Thread-353 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:51:37,844 [ERROR] [Thread-354 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:52:37,844 [ERROR] [Thread-355 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:53:37,843 [ERROR] [Thread-356 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:54:37,845 [ERROR] [Thread-357 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:55:37,851 [ERROR] [Thread-358 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:56:37,849 [ERROR] [Thread-359 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:57:37,859 [ERROR] [Thread-360 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:58:37,864 [ERROR] [Thread-361 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 13:59:37,862 [ERROR] [Thread-362 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:00:37,871 [ERROR] [Thread-363 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:01:37,876 [ERROR] [Thread-364 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:02:37,879 [ERROR] [Thread-365 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:03:37,877 [ERROR] [Thread-366 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:04:37,884 [ERROR] [Thread-367 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:05:37,893 [ERROR] [Thread-368 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:06:37,899 [ERROR] [Thread-369 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:07:37,910 [ERROR] [Thread-370 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:08:37,905 [ERROR] [Thread-371 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:09:37,902 [ERROR] [Thread-372 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:10:37,913 [ERROR] [Thread-373 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:11:37,925 [ERROR] [Thread-374 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:12:37,924 [ERROR] [Thread-375 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:13:37,920 [ERROR] [Thread-376 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:14:37,943 [ERROR] [Thread-377 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:15:37,941 [ERROR] [Thread-378 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:16:37,938 [ERROR] [Thread-379 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:17:37,935 [ERROR] [Thread-380 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:18:37,938 [ERROR] [Thread-381 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:19:37,934 [ERROR] [Thread-382 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:20:37,933 [ERROR] [Thread-383 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:21:37,936 [ERROR] [Thread-384 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:22:37,947 [ERROR] [Thread-385 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:23:37,942 [ERROR] [Thread-386 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:24:37,935 [ERROR] [Thread-387 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:25:37,942 [ERROR] [Thread-388 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:26:37,945 [ERROR] [Thread-389 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:27:37,933 [ERROR] [Thread-390 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:28:37,945 [ERROR] [Thread-391 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:29:37,939 [ERROR] [Thread-392 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:30:37,943 [ERROR] [Thread-393 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:31:37,946 [ERROR] [Thread-394 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:32:37,946 [ERROR] [Thread-395 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:33:37,947 [ERROR] [Thread-396 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:34:37,945 [ERROR] [Thread-397 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:35:37,942 [ERROR] [Thread-398 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:36:37,938 [ERROR] [Thread-399 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:37:37,933 [ERROR] [Thread-400 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:38:37,936 [ERROR] [Thread-401 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:39:37,938 [ERROR] [Thread-402 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:40:37,941 [ERROR] [Thread-403 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:41:37,949 [ERROR] [Thread-404 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:42:37,975 [ERROR] [Thread-405 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:43:37,979 [ERROR] [Thread-406 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:44:37,985 [ERROR] [Thread-407 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:45:37,992 [ERROR] [Thread-408 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:46:37,980 [ERROR] [Thread-409 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:47:37,980 [ERROR] [Thread-410 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:48:37,987 [ERROR] [Thread-411 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:49:37,993 [ERROR] [Thread-412 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:50:37,994 [ERROR] [Thread-413 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:51:38,006 [ERROR] [Thread-414 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:52:38,008 [ERROR] [Thread-415 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:53:38,007 [ERROR] [Thread-416 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:54:38,012 [ERROR] [Thread-417 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:55:38,014 [ERROR] [Thread-418 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:56:38,015 [ERROR] [Thread-419 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:57:38,038 [ERROR] [Thread-420 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:58:38,043 [ERROR] [Thread-421 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 14:59:38,045 [ERROR] [Thread-422 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 15:00:38,056 [ERROR] [Thread-423 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 15:01:38,052 [ERROR] [Thread-424 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 15:02:38,056 [ERROR] [Thread-425 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 15:03:38,049 [ERROR] [Thread-426 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 15:04:38,057 [ERROR] [Thread-427 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 15:05:38,059 [ERROR] [Thread-428 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 15:06:38,066 [ERROR] [Thread-429 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 15:07:38,067 [ERROR] [Thread-430 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 15:08:38,057 [ERROR] [Thread-431 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 15:09:38,069 [ERROR] [Thread-432 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 15:10:38,063 [ERROR] [Thread-433 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 15:11:38,059 [ERROR] [Thread-434 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 15:12:38,071 [ERROR] [Thread-435 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 15:13:38,066 [ERROR] [Thread-436 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 15:14:38,067 [ERROR] [Thread-437 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 15:15:38,063 [ERROR] [Thread-438 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 15:16:38,062 [ERROR] [Thread-439 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 15:17:38,060 [ERROR] [Thread-440 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 15:18:38,062 [ERROR] [Thread-441 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 15:19:38,058 [ERROR] [Thread-442 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 15:20:38,071 [ERROR] [Thread-443 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 15:21:38,068 [ERROR] [Thread-444 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 15:22:38,057 [ERROR] [Thread-445 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 15:23:38,063 [ERROR] [Thread-446 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 15:24:38,060 [ERROR] [Thread-447 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 15:25:38,065 [ERROR] [Thread-448 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 15:26:38,062 [ERROR] [Thread-449 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 15:27:38,066 [ERROR] [Thread-450 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 15:28:38,059 [ERROR] [Thread-451 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 15:29:38,071 [ERROR] [Thread-452 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 15:30:38,069 [ERROR] [Thread-453 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 15:31:38,058 [ERROR] [Thread-454 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 15:32:38,060 [ERROR] [Thread-455 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 15:33:38,068 [ERROR] [Thread-456 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 15:34:38,072 [ERROR] [Thread-457 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 15:35:38,067 [ERROR] [Thread-458 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 15:36:38,075 [ERROR] [Thread-459 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 15:37:28,116 [INFO] [MainThread] [root/controller.py:35]: Exiting Application...
+2025-10-07 15:37:28,221 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-07 15:37:28,221 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-07 15:37:29,857 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-07 15:37:29,857 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2025-10-07 15:37:29,881 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-07 15:37:29,895 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-07 15:37:29,895 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-07 22:14:00,941 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-07 22:14:00,941 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-07 22:14:00,941 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-07 22:14:01,241 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-07 22:14:01,842 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-07 22:14:04,811 [ERROR] [Thread-6 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 22:14:06,889 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-10-07 22:14:06,897 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-07 22:14:06,898 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\John Obama\.config\yasb
+2025-10-07 22:14:06,990 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-07 22:14:06,992 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-07 22:15:02,960 [ERROR] [Thread-11 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 22:16:02,992 [ERROR] [Thread-12 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 22:17:03,069 [ERROR] [Thread-13 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 22:18:03,438 [ERROR] [Thread-14 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 22:19:03,009 [ERROR] [Thread-15 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 22:20:03,102 [ERROR] [Thread-16 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 22:21:03,068 [ERROR] [Thread-17 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 22:22:03,065 [ERROR] [Thread-18 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 22:23:03,034 [ERROR] [Thread-19 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 22:24:03,451 [ERROR] [Thread-20 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 22:25:03,520 [ERROR] [Thread-21 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 22:26:03,033 [ERROR] [Thread-22 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 22:27:03,131 [ERROR] [Thread-23 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 22:28:03,032 [ERROR] [Thread-24 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 22:29:03,062 [ERROR] [Thread-25 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 22:30:03,094 [ERROR] [Thread-26 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 22:31:03,233 [ERROR] [Thread-27 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 22:32:03,067 [ERROR] [Thread-28 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 22:33:03,153 [ERROR] [Thread-29 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 22:34:03,399 [ERROR] [Thread-30 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 22:35:03,435 [ERROR] [Thread-31 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 22:36:03,236 [ERROR] [Thread-32 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 22:37:03,077 [ERROR] [Thread-33 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 22:38:03,102 [ERROR] [Thread-34 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 22:39:03,127 [ERROR] [Thread-35 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 22:40:03,162 [ERROR] [Thread-36 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 22:41:03,144 [ERROR] [Thread-37 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 22:42:03,601 [ERROR] [Thread-38 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 22:43:03,193 [ERROR] [Thread-39 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 22:44:03,137 [ERROR] [Thread-40 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 22:45:03,128 [ERROR] [Thread-41 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 22:46:03,191 [ERROR] [Thread-42 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 22:47:03,196 [ERROR] [Thread-43 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 22:48:03,166 [ERROR] [Thread-44 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 22:49:03,153 [ERROR] [Thread-45 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 22:50:03,183 [ERROR] [Thread-46 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 22:51:03,211 [ERROR] [Thread-47 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 22:52:03,252 [ERROR] [Thread-48 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 22:53:03,242 [ERROR] [Thread-49 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 22:54:03,232 [ERROR] [Thread-50 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 22:55:03,220 [ERROR] [Thread-51 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 22:56:03,255 [ERROR] [Thread-52 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 22:57:03,213 [ERROR] [Thread-53 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 22:58:03,235 [ERROR] [Thread-54 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 22:59:03,283 [ERROR] [Thread-55 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:00:03,233 [ERROR] [Thread-56 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:01:03,261 [ERROR] [Thread-57 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:02:03,330 [ERROR] [Thread-58 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:03:03,278 [ERROR] [Thread-59 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:04:03,402 [ERROR] [Thread-60 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:05:03,254 [ERROR] [Thread-61 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:06:03,265 [ERROR] [Thread-62 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:07:03,267 [ERROR] [Thread-63 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:08:03,264 [ERROR] [Thread-64 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:09:03,774 [ERROR] [Thread-65 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:10:03,401 [ERROR] [Thread-66 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:11:03,338 [ERROR] [Thread-67 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:12:03,306 [ERROR] [Thread-68 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:13:03,300 [ERROR] [Thread-69 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:14:03,428 [ERROR] [Thread-70 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:15:03,361 [ERROR] [Thread-71 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:16:03,406 [ERROR] [Thread-72 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:17:03,470 [ERROR] [Thread-73 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:18:03,781 [ERROR] [Thread-74 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:19:03,362 [ERROR] [Thread-75 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:20:03,296 [ERROR] [Thread-76 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:21:03,341 [ERROR] [Thread-77 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:22:03,346 [ERROR] [Thread-78 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:23:03,299 [ERROR] [Thread-79 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:24:03,371 [ERROR] [Thread-80 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:25:03,320 [ERROR] [Thread-81 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:26:03,457 [ERROR] [Thread-82 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:27:03,374 [ERROR] [Thread-83 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:28:03,339 [ERROR] [Thread-84 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:29:03,414 [ERROR] [Thread-85 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:30:03,374 [ERROR] [Thread-86 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:31:03,500 [ERROR] [Thread-87 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:32:03,302 [ERROR] [Thread-88 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:33:03,789 [ERROR] [Thread-89 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:34:03,311 [ERROR] [Thread-90 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:35:03,799 [ERROR] [Thread-91 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:36:03,313 [ERROR] [Thread-92 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:37:03,330 [ERROR] [Thread-93 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:38:03,416 [ERROR] [Thread-94 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:39:03,323 [ERROR] [Thread-95 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:40:03,345 [ERROR] [Thread-96 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:41:03,322 [ERROR] [Thread-97 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:42:03,402 [ERROR] [Thread-98 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:43:03,821 [ERROR] [Thread-99 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:44:03,426 [ERROR] [Thread-100 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:45:03,457 [ERROR] [Thread-101 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:46:03,387 [ERROR] [Thread-102 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:47:03,399 [ERROR] [Thread-103 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:48:03,389 [ERROR] [Thread-104 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:49:03,374 [ERROR] [Thread-105 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:50:03,374 [ERROR] [Thread-106 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:51:03,352 [ERROR] [Thread-107 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:52:03,356 [ERROR] [Thread-108 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:53:03,378 [ERROR] [Thread-109 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:54:03,377 [ERROR] [Thread-110 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:55:03,321 [ERROR] [Thread-111 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:56:03,835 [ERROR] [Thread-112 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:57:03,356 [ERROR] [Thread-113 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:58:03,870 [ERROR] [Thread-114 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-07 23:59:03,397 [ERROR] [Thread-115 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:00:03,404 [ERROR] [Thread-116 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:01:03,441 [ERROR] [Thread-117 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:02:03,505 [ERROR] [Thread-118 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:03:03,470 [ERROR] [Thread-119 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:04:03,507 [ERROR] [Thread-120 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:05:03,436 [ERROR] [Thread-121 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:06:03,506 [ERROR] [Thread-122 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:07:03,436 [ERROR] [Thread-123 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:08:03,367 [ERROR] [Thread-124 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:09:03,416 [ERROR] [Thread-125 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:10:03,457 [ERROR] [Thread-126 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:11:03,881 [ERROR] [Thread-127 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:12:03,428 [ERROR] [Thread-128 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:13:03,920 [ERROR] [Thread-129 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:14:03,753 [ERROR] [Thread-130 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:15:03,594 [ERROR] [Thread-131 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:16:03,967 [ERROR] [Thread-132 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:17:03,521 [ERROR] [Thread-133 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:18:03,492 [ERROR] [Thread-134 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:19:03,598 [ERROR] [Thread-135 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:20:03,551 [ERROR] [Thread-136 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:21:04,040 [ERROR] [Thread-137 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:22:03,972 [ERROR] [Thread-138 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:23:03,486 [ERROR] [Thread-139 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:24:03,555 [ERROR] [Thread-140 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:25:03,445 [ERROR] [Thread-141 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:26:03,494 [ERROR] [Thread-142 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:27:03,494 [ERROR] [Thread-143 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:28:03,487 [ERROR] [Thread-144 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:29:03,563 [ERROR] [Thread-145 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:30:03,525 [ERROR] [Thread-146 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:31:03,495 [ERROR] [Thread-147 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:32:03,485 [ERROR] [Thread-148 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:33:03,499 [ERROR] [Thread-149 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:34:03,454 [ERROR] [Thread-150 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:35:03,580 [ERROR] [Thread-151 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:36:03,552 [ERROR] [Thread-152 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:37:03,934 [ERROR] [Thread-153 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:38:03,451 [ERROR] [Thread-154 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:39:03,485 [ERROR] [Thread-155 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:40:03,479 [ERROR] [Thread-156 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:41:03,448 [ERROR] [Thread-157 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:42:03,505 [ERROR] [Thread-158 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:43:03,656 [ERROR] [Thread-159 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:44:03,497 [ERROR] [Thread-160 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:45:03,478 [ERROR] [Thread-161 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:46:03,512 [ERROR] [Thread-162 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:47:03,940 [ERROR] [Thread-163 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:48:03,526 [ERROR] [Thread-164 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:49:03,497 [ERROR] [Thread-165 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:50:03,506 [ERROR] [Thread-166 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:51:03,565 [ERROR] [Thread-167 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:52:03,542 [ERROR] [Thread-168 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:53:03,528 [ERROR] [Thread-169 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:54:03,547 [ERROR] [Thread-170 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:55:03,533 [ERROR] [Thread-171 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:56:03,505 [ERROR] [Thread-172 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:57:03,521 [ERROR] [Thread-173 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:58:03,511 [ERROR] [Thread-174 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 00:59:03,592 [ERROR] [Thread-175 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:00:03,578 [ERROR] [Thread-176 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:01:03,960 [ERROR] [Thread-177 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:02:03,608 [ERROR] [Thread-178 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:03:03,523 [ERROR] [Thread-179 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:04:03,473 [ERROR] [Thread-180 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:05:03,968 [ERROR] [Thread-181 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:06:03,662 [ERROR] [Thread-182 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:07:03,537 [ERROR] [Thread-183 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:08:03,514 [ERROR] [Thread-184 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:09:03,493 [ERROR] [Thread-185 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:10:03,553 [ERROR] [Thread-186 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:11:03,488 [ERROR] [Thread-187 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:12:03,512 [ERROR] [Thread-188 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:13:03,543 [ERROR] [Thread-189 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:14:03,932 [ERROR] [Thread-190 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:15:03,546 [ERROR] [Thread-191 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:16:03,505 [ERROR] [Thread-192 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:17:03,533 [ERROR] [Thread-193 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:18:03,590 [ERROR] [Thread-194 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:19:03,587 [ERROR] [Thread-195 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:20:03,584 [ERROR] [Thread-196 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:21:03,550 [ERROR] [Thread-197 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:22:03,677 [ERROR] [Thread-198 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:23:03,544 [ERROR] [Thread-199 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:24:03,571 [ERROR] [Thread-200 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:25:03,543 [ERROR] [Thread-201 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:26:03,665 [ERROR] [Thread-202 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:27:04,009 [ERROR] [Thread-203 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:28:03,567 [ERROR] [Thread-204 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:29:04,039 [ERROR] [Thread-205 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:30:03,573 [ERROR] [Thread-206 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:31:03,565 [ERROR] [Thread-207 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:32:03,573 [ERROR] [Thread-208 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:33:04,021 [ERROR] [Thread-209 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:34:04,056 [ERROR] [Thread-210 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:35:03,687 [ERROR] [Thread-211 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:36:04,033 [ERROR] [Thread-212 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:37:03,600 [ERROR] [Thread-213 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:38:03,631 [ERROR] [Thread-214 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:39:03,568 [ERROR] [Thread-215 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:40:03,614 [ERROR] [Thread-216 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:41:04,104 [ERROR] [Thread-217 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:42:03,603 [ERROR] [Thread-218 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:43:03,611 [ERROR] [Thread-219 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:44:03,672 [ERROR] [Thread-220 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:45:03,600 [ERROR] [Thread-221 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:46:04,100 [ERROR] [Thread-222 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:47:03,620 [ERROR] [Thread-223 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:48:03,605 [ERROR] [Thread-224 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:49:03,618 [ERROR] [Thread-225 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:50:03,645 [ERROR] [Thread-226 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:51:03,600 [ERROR] [Thread-227 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:52:03,614 [ERROR] [Thread-228 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:53:03,609 [ERROR] [Thread-229 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:54:03,641 [ERROR] [Thread-230 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:55:03,638 [ERROR] [Thread-231 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:56:04,089 [ERROR] [Thread-232 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:57:03,654 [ERROR] [Thread-233 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:58:03,615 [ERROR] [Thread-234 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 01:59:03,628 [ERROR] [Thread-235 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:00:03,640 [ERROR] [Thread-236 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:01:03,712 [ERROR] [Thread-237 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:02:03,692 [ERROR] [Thread-238 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:03:03,709 [ERROR] [Thread-239 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:04:03,684 [ERROR] [Thread-240 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:05:03,759 [ERROR] [Thread-241 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:06:04,304 [ERROR] [Thread-242 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:07:03,822 [ERROR] [Thread-243 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:08:03,691 [ERROR] [Thread-244 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:09:04,185 [ERROR] [Thread-245 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:10:04,264 [ERROR] [Thread-246 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:11:03,777 [ERROR] [Thread-247 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:12:03,753 [ERROR] [Thread-248 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:13:03,720 [ERROR] [Thread-249 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:14:03,739 [ERROR] [Thread-250 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:15:04,197 [ERROR] [Thread-251 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:16:04,225 [ERROR] [Thread-252 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:17:03,788 [ERROR] [Thread-253 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:18:03,728 [ERROR] [Thread-254 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:19:03,897 [ERROR] [Thread-255 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:20:03,814 [ERROR] [Thread-256 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:21:03,797 [ERROR] [Thread-257 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:22:03,806 [ERROR] [Thread-258 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:23:03,877 [ERROR] [Thread-259 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:24:03,789 [ERROR] [Thread-260 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:25:03,830 [ERROR] [Thread-261 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:26:03,837 [ERROR] [Thread-262 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:27:03,968 [ERROR] [Thread-263 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:28:03,842 [ERROR] [Thread-264 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:29:03,891 [ERROR] [Thread-265 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:30:03,876 [ERROR] [Thread-266 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:31:03,906 [ERROR] [Thread-267 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:32:04,306 [ERROR] [Thread-268 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:33:04,352 [ERROR] [Thread-269 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:34:03,898 [ERROR] [Thread-270 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:35:04,351 [ERROR] [Thread-271 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:36:04,299 [ERROR] [Thread-272 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:37:03,865 [ERROR] [Thread-273 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:38:03,950 [ERROR] [Thread-274 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:39:03,911 [ERROR] [Thread-275 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:40:03,937 [ERROR] [Thread-276 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:41:03,919 [ERROR] [Thread-277 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:42:03,871 [ERROR] [Thread-278 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:43:04,324 [ERROR] [Thread-279 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:44:03,845 [ERROR] [Thread-280 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:45:03,861 [ERROR] [Thread-281 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:46:03,890 [ERROR] [Thread-282 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:47:03,867 [ERROR] [Thread-283 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:48:03,874 [ERROR] [Thread-284 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:49:03,903 [ERROR] [Thread-285 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:50:03,892 [ERROR] [Thread-286 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:51:03,457 [ERROR] [Thread-287 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:52:03,466 [ERROR] [Thread-288 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:53:03,470 [ERROR] [Thread-289 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:54:03,473 [ERROR] [Thread-290 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:55:03,463 [ERROR] [Thread-291 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:56:04,095 [ERROR] [Thread-292 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:57:04,316 [ERROR] [Thread-293 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:58:04,793 [ERROR] [Thread-294 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 02:59:03,870 [ERROR] [Thread-295 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 03:00:04,155 [ERROR] [Thread-296 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 03:01:03,898 [ERROR] [Thread-297 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 03:02:04,361 [ERROR] [Thread-298 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 03:03:03,918 [ERROR] [Thread-299 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 03:04:04,378 [ERROR] [Thread-300 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 03:05:03,937 [ERROR] [Thread-301 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 03:06:03,963 [ERROR] [Thread-302 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 03:07:03,982 [ERROR] [Thread-303 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 03:08:03,990 [ERROR] [Thread-304 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 03:09:03,967 [ERROR] [Thread-305 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 03:10:04,014 [ERROR] [Thread-306 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 03:11:03,994 [ERROR] [Thread-307 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 03:12:04,011 [ERROR] [Thread-308 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 03:13:04,001 [ERROR] [Thread-309 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 03:14:04,001 [ERROR] [Thread-310 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 03:14:17,844 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-08 03:14:17,844 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2025-10-08 08:17:29,349 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-08 08:17:29,349 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-08 08:17:29,349 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-08 08:17:29,699 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-08 08:17:30,369 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-08 08:17:33,266 [ERROR] [Thread-6 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 08:17:34,646 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-10-08 08:17:34,652 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-08 08:17:34,652 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\John Obama\.config\yasb
+2025-10-08 08:17:34,728 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-08 08:17:34,729 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-08 08:17:35,178 [WARNING] [Thread-9 (check_for_update)] [root/update_check.py:54]: UpdateCheckService Failed to check for updates: Network error.
+2025-10-08 08:17:41,221 [ERROR] [Dummy-11] [root/update_check.py:195]: Error in windows worker: (-2147352567, 'Exception occurred.', (0, None, None, None, 0, -2145123272), None)
+2025-10-08 08:18:33,072 [ERROR] [Thread-12 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 08:19:33,066 [ERROR] [Thread-13 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 08:20:33,520 [ERROR] [Thread-14 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 08:21:33,476 [ERROR] [Thread-15 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 08:22:34,586 [ERROR] [Thread-16 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 08:23:33,617 [ERROR] [Thread-17 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 08:24:33,095 [ERROR] [Thread-18 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 08:25:33,100 [ERROR] [Thread-19 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 08:26:33,108 [ERROR] [Thread-20 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 08:27:33,096 [ERROR] [Thread-21 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 08:28:33,101 [ERROR] [Thread-22 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 08:29:33,113 [ERROR] [Thread-23 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 08:30:33,111 [ERROR] [Thread-24 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 08:31:33,113 [ERROR] [Thread-25 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 08:32:33,115 [ERROR] [Thread-26 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 08:33:33,117 [ERROR] [Thread-27 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 08:34:33,123 [ERROR] [Thread-28 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 08:35:33,116 [ERROR] [Thread-29 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 08:36:33,118 [ERROR] [Thread-30 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 08:37:33,131 [ERROR] [Thread-31 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 08:38:33,118 [ERROR] [Thread-32 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 08:39:33,114 [ERROR] [Thread-33 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 08:40:33,124 [ERROR] [Thread-34 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 08:41:33,119 [ERROR] [Thread-35 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 08:42:33,124 [ERROR] [Thread-36 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 08:43:33,119 [ERROR] [Thread-37 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 08:44:33,137 [ERROR] [Thread-38 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 08:45:33,144 [ERROR] [Thread-39 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 08:46:33,131 [ERROR] [Thread-40 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 08:47:33,141 [ERROR] [Thread-41 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 08:48:33,131 [ERROR] [Thread-42 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 08:49:33,140 [ERROR] [Thread-43 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 08:50:33,139 [ERROR] [Thread-44 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 08:51:33,139 [ERROR] [Thread-45 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 08:52:33,143 [ERROR] [Thread-46 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 08:53:33,160 [ERROR] [Thread-47 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 08:54:33,170 [ERROR] [Thread-48 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 08:55:33,167 [ERROR] [Thread-49 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 08:56:33,173 [ERROR] [Thread-50 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 08:57:33,178 [ERROR] [Thread-51 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 08:58:33,165 [ERROR] [Thread-52 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 08:59:33,160 [ERROR] [Thread-53 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:00:33,170 [ERROR] [Thread-54 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:01:33,166 [ERROR] [Thread-55 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:02:33,178 [ERROR] [Thread-56 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:03:33,174 [ERROR] [Thread-57 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:04:33,192 [ERROR] [Thread-58 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:05:33,195 [ERROR] [Thread-59 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:06:33,207 [ERROR] [Thread-60 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:07:33,227 [ERROR] [Thread-61 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:08:33,213 [ERROR] [Thread-62 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:09:33,209 [ERROR] [Thread-63 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:10:33,216 [ERROR] [Thread-64 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:11:33,221 [ERROR] [Thread-65 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:12:33,215 [ERROR] [Thread-66 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:13:33,211 [ERROR] [Thread-67 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:14:33,217 [ERROR] [Thread-68 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:15:33,218 [ERROR] [Thread-69 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:16:33,224 [ERROR] [Thread-70 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:17:33,219 [ERROR] [Thread-71 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:18:33,227 [ERROR] [Thread-72 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:19:33,213 [ERROR] [Thread-73 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:20:33,223 [ERROR] [Thread-74 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:21:33,235 [ERROR] [Thread-75 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:22:33,228 [ERROR] [Thread-76 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:23:33,235 [ERROR] [Thread-77 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:24:33,223 [ERROR] [Thread-78 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:25:33,222 [ERROR] [Thread-79 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:26:33,224 [ERROR] [Thread-80 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:27:33,223 [ERROR] [Thread-81 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:28:33,226 [ERROR] [Thread-82 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:29:33,229 [ERROR] [Thread-83 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:30:33,236 [ERROR] [Thread-84 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:31:33,226 [ERROR] [Thread-85 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:32:33,233 [ERROR] [Thread-86 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:33:33,227 [ERROR] [Thread-87 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:34:33,239 [ERROR] [Thread-88 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:35:33,237 [ERROR] [Thread-89 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:36:33,239 [ERROR] [Thread-90 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:37:33,259 [ERROR] [Thread-91 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:38:33,258 [ERROR] [Thread-92 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:39:33,270 [ERROR] [Thread-93 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:40:33,255 [ERROR] [Thread-94 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:41:33,269 [ERROR] [Thread-95 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:42:33,295 [ERROR] [Thread-96 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:43:33,297 [ERROR] [Thread-97 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:44:33,292 [ERROR] [Thread-98 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:45:33,296 [ERROR] [Thread-99 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:46:33,297 [ERROR] [Thread-100 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:47:33,303 [ERROR] [Thread-101 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:48:33,293 [ERROR] [Thread-102 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:49:33,295 [ERROR] [Thread-103 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:50:33,290 [ERROR] [Thread-104 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:51:33,297 [ERROR] [Thread-105 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:52:33,299 [ERROR] [Thread-106 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:53:33,294 [ERROR] [Thread-107 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:54:33,299 [ERROR] [Thread-108 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:55:33,287 [ERROR] [Thread-109 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:56:33,305 [ERROR] [Thread-110 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:57:33,300 [ERROR] [Thread-111 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:58:33,293 [ERROR] [Thread-112 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 09:59:33,288 [ERROR] [Thread-113 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:00:33,295 [ERROR] [Thread-114 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:01:33,300 [ERROR] [Thread-115 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:02:33,312 [ERROR] [Thread-116 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:03:33,309 [ERROR] [Thread-117 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:04:33,310 [ERROR] [Thread-118 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:05:33,315 [ERROR] [Thread-119 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:06:33,316 [ERROR] [Thread-120 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:07:33,311 [ERROR] [Thread-121 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:08:33,304 [ERROR] [Thread-122 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:09:33,314 [ERROR] [Thread-123 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:10:33,314 [ERROR] [Thread-124 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:11:33,302 [ERROR] [Thread-125 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:12:33,316 [ERROR] [Thread-126 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:13:33,331 [ERROR] [Thread-127 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:14:33,341 [ERROR] [Thread-128 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:15:33,351 [ERROR] [Thread-129 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:16:33,356 [ERROR] [Thread-130 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:17:33,358 [ERROR] [Thread-131 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:18:33,348 [ERROR] [Thread-132 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:19:33,367 [ERROR] [Thread-133 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:20:33,365 [ERROR] [Thread-134 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:21:33,760 [ERROR] [Thread-135 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:22:33,992 [ERROR] [Thread-136 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:23:34,824 [ERROR] [Thread-137 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:24:35,763 [ERROR] [Thread-138 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:25:35,399 [ERROR] [Thread-139 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:26:33,996 [ERROR] [Thread-140 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:27:33,989 [ERROR] [Thread-141 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:28:36,075 [ERROR] [Thread-142 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:29:34,146 [ERROR] [Thread-143 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:30:34,363 [ERROR] [Thread-144 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:31:44,453 [ERROR] [Thread-145 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:32:37,242 [ERROR] [Thread-146 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:33:33,884 [ERROR] [Thread-147 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:34:34,374 [ERROR] [Thread-148 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:35:34,119 [ERROR] [Thread-149 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:36:33,861 [ERROR] [Thread-150 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:37:36,653 [ERROR] [Thread-151 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:38:33,908 [ERROR] [Thread-152 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:39:35,311 [ERROR] [Thread-153 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:40:33,883 [ERROR] [Thread-154 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:41:33,945 [ERROR] [Thread-155 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:42:34,463 [ERROR] [Thread-156 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:43:33,963 [ERROR] [Thread-157 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:44:33,963 [ERROR] [Thread-158 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:45:34,073 [ERROR] [Thread-159 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:46:33,834 [ERROR] [Thread-160 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:47:33,893 [ERROR] [Thread-161 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:48:33,878 [ERROR] [Thread-162 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:49:34,372 [ERROR] [Thread-163 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:50:33,924 [ERROR] [Thread-164 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:51:34,423 [ERROR] [Thread-165 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:52:33,870 [ERROR] [Thread-166 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:53:33,897 [ERROR] [Thread-167 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:54:33,924 [ERROR] [Thread-168 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:55:34,346 [ERROR] [Thread-169 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:56:33,869 [ERROR] [Thread-170 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:57:33,880 [ERROR] [Thread-171 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:58:33,892 [ERROR] [Thread-172 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 10:59:33,931 [ERROR] [Thread-173 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:00:33,871 [ERROR] [Thread-174 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:01:34,368 [ERROR] [Thread-175 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:02:33,879 [ERROR] [Thread-176 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:03:34,281 [ERROR] [Thread-177 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:04:33,934 [ERROR] [Thread-178 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:05:33,894 [ERROR] [Thread-179 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:06:34,343 [ERROR] [Thread-180 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:07:33,868 [ERROR] [Thread-181 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:08:33,890 [ERROR] [Thread-182 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:09:33,939 [ERROR] [Thread-183 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:10:33,919 [ERROR] [Thread-184 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:11:33,896 [ERROR] [Thread-185 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:12:33,915 [ERROR] [Thread-186 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:13:33,890 [ERROR] [Thread-187 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:14:33,907 [ERROR] [Thread-188 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:15:33,990 [ERROR] [Thread-189 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:16:33,991 [ERROR] [Thread-190 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:17:38,416 [ERROR] [Thread-191 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:18:34,363 [ERROR] [Thread-192 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:19:33,920 [ERROR] [Thread-193 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:20:33,925 [ERROR] [Thread-194 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:21:34,714 [ERROR] [Thread-195 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:22:34,078 [ERROR] [Thread-196 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:23:34,170 [ERROR] [Thread-197 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:24:34,538 [ERROR] [Thread-198 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:25:35,841 [ERROR] [Thread-199 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:26:34,653 [ERROR] [Thread-200 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:27:33,948 [ERROR] [Thread-201 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:28:34,013 [ERROR] [Thread-202 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:29:33,995 [ERROR] [Thread-203 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:30:34,007 [ERROR] [Thread-204 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:31:34,458 [ERROR] [Thread-205 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:32:33,988 [ERROR] [Thread-206 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:33:35,390 [ERROR] [Thread-207 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:34:34,599 [ERROR] [Thread-208 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:35:34,027 [ERROR] [Thread-209 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:36:34,438 [ERROR] [Thread-210 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:37:34,600 [ERROR] [Thread-211 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:38:34,090 [ERROR] [Thread-212 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:39:34,442 [ERROR] [Thread-213 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:40:34,524 [ERROR] [Thread-214 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:41:33,966 [ERROR] [Thread-215 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:42:33,982 [ERROR] [Thread-216 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:43:34,021 [ERROR] [Thread-217 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:44:34,035 [ERROR] [Thread-218 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:45:34,005 [ERROR] [Thread-219 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:46:34,063 [ERROR] [Thread-220 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:47:34,030 [ERROR] [Thread-221 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:48:34,555 [ERROR] [Thread-222 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:49:34,040 [ERROR] [Thread-223 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:50:34,545 [ERROR] [Thread-224 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:51:34,077 [ERROR] [Thread-225 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:52:34,077 [ERROR] [Thread-226 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:53:34,485 [ERROR] [Thread-227 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:54:33,581 [ERROR] [Thread-228 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:55:33,585 [ERROR] [Thread-229 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:56:33,587 [ERROR] [Thread-230 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:57:33,595 [ERROR] [Thread-231 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:58:33,585 [ERROR] [Thread-232 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 11:59:33,598 [ERROR] [Thread-233 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:00:33,601 [ERROR] [Thread-234 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:01:33,597 [ERROR] [Thread-235 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:02:33,611 [ERROR] [Thread-236 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:03:33,597 [ERROR] [Thread-237 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:04:33,604 [ERROR] [Thread-238 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:05:33,599 [ERROR] [Thread-239 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:06:33,605 [ERROR] [Thread-240 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:07:33,603 [ERROR] [Thread-241 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:08:33,598 [ERROR] [Thread-242 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:09:33,621 [ERROR] [Thread-243 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:10:33,613 [ERROR] [Thread-244 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:11:33,628 [ERROR] [Thread-245 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:12:33,623 [ERROR] [Thread-246 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:13:33,626 [ERROR] [Thread-247 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:14:33,628 [ERROR] [Thread-248 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:15:33,620 [ERROR] [Thread-249 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:16:33,631 [ERROR] [Thread-250 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:17:33,631 [ERROR] [Thread-251 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:18:33,620 [ERROR] [Thread-252 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:19:33,614 [ERROR] [Thread-253 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:20:33,628 [ERROR] [Thread-254 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:21:33,619 [ERROR] [Thread-255 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:22:34,487 [ERROR] [Thread-256 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:23:34,405 [ERROR] [Thread-257 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:24:34,028 [ERROR] [Thread-258 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:25:34,065 [ERROR] [Thread-259 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:26:34,042 [ERROR] [Thread-260 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:27:34,062 [ERROR] [Thread-261 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:28:34,103 [ERROR] [Thread-262 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:29:34,087 [ERROR] [Thread-263 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:30:34,122 [ERROR] [Thread-264 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:31:34,056 [ERROR] [Thread-265 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:32:34,129 [ERROR] [Thread-266 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:33:34,072 [ERROR] [Thread-267 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:34:35,349 [ERROR] [Thread-268 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:35:44,728 [ERROR] [Thread-269 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:36:33,641 [ERROR] [Thread-270 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:37:33,633 [ERROR] [Thread-271 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:38:33,642 [ERROR] [Thread-272 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:39:33,646 [ERROR] [Thread-273 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:40:33,651 [ERROR] [Thread-274 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:41:33,658 [ERROR] [Thread-275 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:42:33,670 [ERROR] [Thread-276 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:43:33,689 [ERROR] [Thread-277 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:44:33,699 [ERROR] [Thread-278 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:45:33,696 [ERROR] [Thread-279 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:46:33,703 [ERROR] [Thread-280 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:47:33,709 [ERROR] [Thread-281 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:48:33,716 [ERROR] [Thread-282 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:49:33,716 [ERROR] [Thread-283 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:50:33,717 [ERROR] [Thread-284 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:51:33,706 [ERROR] [Thread-285 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:52:33,711 [ERROR] [Thread-286 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:53:33,717 [ERROR] [Thread-287 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:54:33,707 [ERROR] [Thread-288 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:55:33,708 [ERROR] [Thread-289 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:56:33,714 [ERROR] [Thread-290 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:57:33,714 [ERROR] [Thread-291 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:58:33,713 [ERROR] [Thread-292 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 12:59:33,711 [ERROR] [Thread-293 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:00:33,719 [ERROR] [Thread-294 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:01:33,718 [ERROR] [Thread-295 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:02:33,715 [ERROR] [Thread-296 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:03:33,722 [ERROR] [Thread-297 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:04:33,723 [ERROR] [Thread-298 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:05:33,731 [ERROR] [Thread-299 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:06:33,723 [ERROR] [Thread-300 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:07:33,749 [ERROR] [Thread-301 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:08:33,750 [ERROR] [Thread-302 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:09:33,751 [ERROR] [Thread-303 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:10:33,750 [ERROR] [Thread-304 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:11:33,739 [ERROR] [Thread-305 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:12:33,739 [ERROR] [Thread-306 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:13:33,761 [ERROR] [Thread-307 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:14:33,762 [ERROR] [Thread-308 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:15:33,753 [ERROR] [Thread-309 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:16:33,757 [ERROR] [Thread-310 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:17:34,153 [ERROR] [Thread-311 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:18:34,832 [ERROR] [Thread-312 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:19:34,694 [ERROR] [Thread-313 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:20:34,288 [ERROR] [Thread-314 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:21:34,496 [ERROR] [Thread-315 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:22:34,190 [ERROR] [Thread-316 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:23:34,185 [ERROR] [Thread-317 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:24:34,342 [ERROR] [Thread-318 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:25:34,174 [ERROR] [Thread-319 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:26:34,203 [ERROR] [Thread-320 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:27:34,156 [ERROR] [Thread-321 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:28:34,258 [ERROR] [Thread-322 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:29:34,249 [ERROR] [Thread-323 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:30:34,249 [ERROR] [Thread-324 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:31:34,272 [ERROR] [Thread-325 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:32:34,229 [ERROR] [Thread-326 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:33:34,211 [ERROR] [Thread-327 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:34:34,255 [ERROR] [Thread-328 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:35:34,239 [ERROR] [Thread-329 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:36:34,338 [ERROR] [Thread-330 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:37:34,370 [ERROR] [Thread-331 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:38:34,248 [ERROR] [Thread-332 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:39:34,213 [ERROR] [Thread-333 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:40:34,434 [ERROR] [Thread-334 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:41:31,942 [INFO] [MainThread] [root/controller.py:35]: Exiting Application from tray...
+2025-10-08 13:41:32,045 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-08 13:41:32,045 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-08 13:41:33,714 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-08 13:41:33,716 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2025-10-08 13:41:33,725 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-08 13:41:33,736 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-08 13:41:33,739 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-08 13:45:06,822 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-08 13:45:06,822 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-08 13:45:06,822 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-08 13:45:07,189 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-08 13:45:07,807 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-08 13:45:10,679 [ERROR] [Thread-6 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:45:13,250 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-10-08 13:45:13,256 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-08 13:45:13,256 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\John Obama\.config\yasb
+2025-10-08 13:45:13,327 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-08 13:45:13,329 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-08 13:46:10,500 [ERROR] [Thread-11 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:47:10,589 [ERROR] [Thread-12 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:48:10,488 [ERROR] [Thread-13 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:49:10,482 [ERROR] [Thread-14 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:49:37,470 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-08 13:49:37,577 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-08 13:49:37,577 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-08 13:49:37,585 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-08 13:49:39,271 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-08 13:49:39,272 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2025-10-08 13:49:39,277 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-08 13:49:39,279 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-08 13:49:39,283 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-08 13:49:39,548 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-08 13:49:39,549 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-08 13:49:39,549 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-08 13:49:39,681 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-08 13:49:39,778 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-08 13:49:40,411 [ERROR] [Thread-3 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:49:41,266 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-10-08 13:49:41,276 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-08 13:49:41,277 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\John Obama\.config\yasb
+2025-10-08 13:49:41,352 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-08 13:49:41,354 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-08 13:50:40,523 [ERROR] [Thread-11 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:51:40,326 [ERROR] [Thread-12 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:52:40,415 [ERROR] [Thread-13 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:53:40,930 [ERROR] [Thread-14 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:54:41,819 [ERROR] [Thread-15 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:55:10,982 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-08 13:55:11,089 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-08 13:55:11,089 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-08 13:55:11,097 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-08 13:55:12,834 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-08 13:55:12,837 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2025-10-08 13:55:12,841 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-08 13:55:12,853 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-08 13:55:12,866 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-08 13:55:13,106 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-08 13:55:13,108 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-08 13:55:13,108 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-08 13:55:13,239 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-08 13:55:13,337 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-08 13:55:14,443 [ERROR] [Thread-3 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:55:15,178 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-10-08 13:55:15,189 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-08 13:55:15,189 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\John Obama\.config\yasb
+2025-10-08 13:55:15,246 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-08 13:55:15,247 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-08 13:56:14,329 [ERROR] [Thread-11 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:57:14,563 [ERROR] [Thread-12 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:58:14,379 [ERROR] [Thread-13 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 13:59:14,231 [ERROR] [Thread-14 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 14:00:14,216 [ERROR] [Thread-15 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 14:01:14,963 [ERROR] [Thread-16 (_get_github_data)] [root/github.py:503]: No internet connection. Unable to fetch notifications.
+2025-10-08 14:01:19,346 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-08 14:01:19,450 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-08 14:01:19,450 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-08 14:01:19,450 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-08 14:01:21,159 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-08 14:01:21,159 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2025-10-08 14:01:21,162 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-08 14:01:21,168 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-08 14:01:21,171 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-08 14:01:21,408 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-08 14:01:21,408 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-08 14:01:21,408 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-08 14:01:21,730 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-08 14:01:21,833 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-08 14:01:21,962 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-08 14:01:23,422 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-08 14:01:23,422 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-08 14:01:23,424 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\John Obama\.config\yasb
+2025-10-08 14:01:23,477 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-08 14:01:23,479 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-08 14:03:30,717 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-08 14:03:30,828 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-08 14:03:30,828 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-08 14:03:30,828 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-08 14:03:32,608 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-08 14:03:32,608 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-08 14:03:32,615 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-08 14:03:32,619 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-08 14:03:32,621 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-08 14:03:32,827 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-08 14:03:32,829 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-08 14:03:32,829 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-08 14:03:37,935 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-08 14:03:37,999 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-08 14:03:38,118 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-08 14:03:39,682 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-08 14:03:39,682 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-08 14:03:39,682 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\John Obama\.config\yasb
+2025-10-08 14:03:39,723 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-08 14:03:39,723 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-08 14:05:47,135 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-08 14:05:47,239 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-08 14:05:47,239 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-08 14:05:47,244 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-08 14:05:48,953 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-08 14:05:48,954 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-08 14:05:48,956 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-08 14:05:48,967 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-08 14:05:48,967 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-08 14:05:49,233 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-08 14:05:49,234 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-08 14:05:49,235 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-08 14:05:49,558 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-08 14:05:49,639 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-08 14:05:49,743 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-08 14:05:50,978 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-08 14:05:50,978 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-08 14:05:50,980 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\John Obama\.config\yasb
+2025-10-08 14:05:51,026 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-08 14:05:51,028 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-08 14:05:54,652 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-08 14:05:54,762 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-08 14:05:54,762 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-08 14:05:54,769 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-08 14:05:55,379 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-08 14:05:55,380 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-08 14:05:55,384 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-08 14:05:55,388 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-08 14:05:55,391 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-08 14:05:55,613 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-08 14:05:55,614 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-08 14:05:55,615 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-08 14:05:55,926 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-08 14:05:55,988 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-08 14:05:56,098 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-08 14:05:57,267 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-08 14:05:57,267 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-08 14:05:57,268 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\John Obama\.config\yasb
+2025-10-08 14:05:57,312 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-08 14:05:57,314 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-08 14:06:20,654 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-08 14:06:20,763 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-08 14:06:20,763 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-08 14:06:20,764 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-08 14:06:22,435 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-08 14:06:22,436 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-08 14:06:22,441 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-08 14:06:22,447 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-08 14:06:22,449 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-08 14:06:22,684 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-08 14:06:22,685 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-08 14:06:22,685 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-08 14:06:22,988 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-08 14:06:23,040 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-08 14:06:23,151 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-08 14:06:24,314 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-08 14:06:24,314 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-08 14:06:24,316 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\John Obama\.config\yasb
+2025-10-08 14:06:24,365 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-08 14:06:24,366 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-08 14:06:54,431 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-08 14:06:54,543 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-08 14:06:54,543 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-08 14:06:54,548 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-08 14:06:56,198 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-08 14:06:56,198 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-08 14:06:56,205 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-08 14:06:56,208 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-08 14:06:56,211 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-08 14:06:56,427 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-08 14:06:56,427 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-08 14:06:56,427 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-08 14:06:56,726 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-08 14:06:56,779 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-08 14:06:56,884 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-08 14:06:58,046 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-08 14:06:58,046 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-08 14:06:58,046 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\John Obama\.config\yasb
+2025-10-08 14:06:58,115 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-08 14:06:58,121 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-08 14:07:54,798 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-08 14:07:54,904 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-08 14:07:54,904 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-08 14:07:54,906 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-08 14:07:56,567 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-08 14:07:56,567 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-08 14:07:56,571 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-08 14:07:56,577 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-08 14:07:56,580 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing

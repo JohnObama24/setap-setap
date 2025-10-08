@@ -425,3 +425,15 @@
     color: rgb(255, 255, 255);
     margin-top: -20px;
 }
+
+.media-widget {
+    padding: 0;
+    margin: 0;
+    border-radius: 0;
+}
+
+.media-widget .btn {
+    padding: 0 5px;
+    margin: 0;
+    gap: 3px;   
+}
